@@ -6,6 +6,7 @@ urls:
   - https://github.com/djherbis/buffer.git
   - https://github.com/efischer19/golang_ctci.git
   - https://github.com/golang-patterns-collection.git
+  - https://github.com/gophergala/go-algos.git
   - https://github.com/jbuberel/go-patterns.git
   - https://github.com/kamranahmedse/design-patterns-for-humans.git
   - https://github.com/logpacker/go-questions.git
@@ -20,3 +21,4 @@ urls:
   - https://github.com/twotwotwo/sorts.git
   - https://github.com/ungerik/go-dry.git
   - https://github.com/yksz/go-design-patterns.git
+
