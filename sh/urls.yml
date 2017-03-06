@@ -5,6 +5,7 @@ urls:
   - https://github.com/deckarep/golang-set.git
   - https://github.com/djherbis/buffer.git
   - https://github.com/efischer19/golang_ctci.git
+  - https://github.com/eapache/go-resiliency.git
   - https://github.com/golang-patterns-collection.git
   - https://github.com/gophergala/go-algos.git
   - https://github.com/jbuberel/go-patterns.git
