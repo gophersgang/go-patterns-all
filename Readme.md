@@ -1,6 +1,5 @@
-## Go-Patterns-All-Inclusive
+## Go-Patterns-All-Inclusive: meta-collection of repos for Go patterns
 
-A meta-collection of collection of repos for Go patterns.
 A handy reference of common idioms and patterns for algorithms, design patterns, datastructures.
 The main purpose is reading / learning / teaching.
 
