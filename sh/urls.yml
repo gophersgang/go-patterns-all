@@ -1,0 +1,16 @@
+urls:
+  - https://github.com/rubyist/circuitbreaker.git
+  - https://github.com/orcaman/concurrent-map.git
+  - https://github.com/kamranahmedse/design-patterns-for-humans.git
+  - https://github.com/mrekucci/epi.git
+  - https://github.com/tjarratt/go-best-practices.git
+  - https://github.com/Workiva/go-datastructures.git
+  - https://github.com/yksz/go-design-patterns.git
+  - https://github.com/tmrts/go-patterns.git
+  - git@github.com:gophersgang/go-patterns.git
+  - https://github.com/logpacker/go-questions.git
+  - git@github.com:gophersgang/go_design_pattern.git
+  - git@github.com:gophersgang/golang-design-patterns.git
+  - git@github.com:gophersgang/golang-patterns-collection.git
+  - https://github.com/efischer19/golang_ctci.git
+  - https://github.com/davecheney/high-performance-go-workshop.git
