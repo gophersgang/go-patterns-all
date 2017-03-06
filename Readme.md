@@ -6,4 +6,4 @@ The main purpose is reading / learning / teaching
 
 ### Setup
 
-  $ sh/download.rb
+    $ sh/download.rb
