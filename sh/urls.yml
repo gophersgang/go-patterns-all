@@ -8,6 +8,7 @@ urls:
   - https://github.com/golang-patterns-collection.git
   - https://github.com/gophergala/go-algos.git
   - https://github.com/jbuberel/go-patterns.git
+  - https://github.com/jpillora/backoff.git
   - https://github.com/kamranahmedse/design-patterns-for-humans.git
   - https://github.com/logpacker/go-questions.git
   - https://github.com/monochromegane/go_design_pattern.git
