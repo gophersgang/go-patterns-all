@@ -10,4 +10,4 @@ The main purpose is reading / learning / teaching
 
 
 
-<img src="https://raw.githubusercontent.com/gophersgang/go-patterns-all-inclusive/master/images/screenshot.png" alt="alt text" height="200">
+<img src="https://raw.githubusercontent.com/gophersgang/go-patterns-all-inclusive/master/images/screenshot.png" alt="alt text" height="600">
