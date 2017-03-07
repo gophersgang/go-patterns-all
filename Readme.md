@@ -22,6 +22,8 @@ The main purpose is reading / learning / teaching.
 - https://github.com/djherbis/buffer.git
 - https://github.com/eapache/go-resiliency.git
 - https://github.com/efischer19/golang_ctci.git
+- https://github.com/emirpasic/gods
+- https://github.com/exercism/xgo.git
 - https://github.com/f2prateek/semaphore
 - https://github.com/glycerine/offheap.git
 - https://github.com/go-pipe/pipe.git
@@ -40,6 +42,7 @@ The main purpose is reading / learning / teaching.
 - https://github.com/pierrec/xxHash
 - https://github.com/rakyll/coop
 - https://github.com/rubyist/circuitbreaker.git
+- https://github.com/serialx/hashring
 - https://github.com/svett/golang-design-patterns.git
 - https://github.com/thejerf/suture
 - https://github.com/timtadh/fs2.git
