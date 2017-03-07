@@ -32,4 +32,5 @@ urls:
   - https://github.com/twotwotwo/sorts.git
   - https://github.com/ungerik/go-dry.git
   - https://github.com/yksz/go-design-patterns.git
+  - https://github.com/f2prateek/semaphore
 
