@@ -9,7 +9,8 @@ The main purpose is reading / learning / teaching.
 
 ### Setup
 
-    $ sh/download.rb
+    $ sh/download.rb (ruby)
+    $ go run downloader/main.go (go, much faster!)
 
 
 ### URLS
@@ -21,10 +22,12 @@ The main purpose is reading / learning / teaching.
 - https://github.com/djherbis/buffer.git
 - https://github.com/eapache/go-resiliency.git
 - https://github.com/efischer19/golang_ctci.git
+- https://github.com/f2prateek/semaphore
 - https://github.com/glycerine/offheap.git
 - https://github.com/go-pipe/pipe.git
 - https://github.com/golang/sync
 - https://github.com/gophergala/go-algos.git
+- https://github.com/gophersgang/golang-patterns-collection.git
 - https://github.com/jbuberel/go-patterns.git
 - https://github.com/joeshaw/cuckoofilter.git
 - https://github.com/jpillora/backoff.git
