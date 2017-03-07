@@ -14,7 +14,7 @@ The main purpose is reading / learning / teaching.
 
 
 ### URLS
-```
+
 - https://github.com/clarkduvall/hyperloglog.git
 - https://github.com/davecheney/high-performance-go-workshop.git
 - https://github.com/deckarep/golang-set.git
@@ -49,6 +49,3 @@ The main purpose is reading / learning / teaching.
 - https://github.com/ungerik/go-dry.git
 - https://github.com/Workiva/go-datastructures.git
 - https://github.com/yksz/go-design-patterns.git
-```
-
-<img src="https://raw.githubusercontent.com/gophersgang/go-patterns-all-inclusive/master/images/screenshot.png" alt="alt text" height="553">
