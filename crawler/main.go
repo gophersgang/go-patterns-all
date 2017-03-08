@@ -19,10 +19,16 @@ type repoInfo struct {
 }
 
 func (ri repoInfo) Markdown() string {
-	shortcommit := ri.lastcommit[0:10]
-	short_url := strings.Replace(ri.url, "https://github.com/", "", -1)
-	//return fmt.Sprintf("- %s - %s <br/> ( %s )", ri.url, ri.description, shortcommit)
-	return fmt.Sprintf("- [%s](%s) - %s <br/> ( %s )", short_url, ri.url, ri.description, shortcommit)
+	lastcommit := ri.lastcommit[0:10]
+	shorturl := strings.Replace(ri.url, "https://github.com/", "", -1)
+	return fmt.Sprintf("- [%s](%s) - %s <br/> ( %s )", shorturl, ri.url, ri.description, lastcommit)
+}
+
+func (ri repoInfo) MarkdownActivity() string {
+	lastcommit := ri.lastcommit[0:10]
+	shorturl := strings.Replace(ri.url, "https://github.com/", "", -1)
+	link := fmt.Sprintf("[%s](%s)", shorturl, ri.url)
+	return fmt.Sprintf("- ( %s ) - %s  <br/> %s ", lastcommit, link, ri.description)
 }
 
 type reposByLastcommit []repoInfo
@@ -47,17 +53,28 @@ func main() {
 		go func() {
 			defer wg.Done()
 			repo := process(a)
-			// fmt.Println(repo)
 			repos = append(repos, repo)
 			fmt.Print(".")
 		}()
 	}
 	wg.Wait()
+	printSortedAlpha(repos)
+	printSortedLastcommit(repos)
+}
 
+func printSortedAlpha(repos []repoInfo) {
 	sort.Sort(reposByUrl(repos))
 	fmt.Print("\n\n")
 	for _, r := range repos {
 		fmt.Println(r.Markdown())
+	}
+}
+
+func printSortedLastcommit(repos []repoInfo) {
+	sort.Sort(reposByLastcommit(repos))
+	fmt.Print("\n\n")
+	for _, r := range repos {
+		fmt.Println(r.MarkdownActivity())
 	}
 }
 
