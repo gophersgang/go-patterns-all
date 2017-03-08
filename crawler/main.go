@@ -14,6 +14,11 @@ import (
 	"github.com/PuerkitoBio/goquery"
 )
 
+var (
+	urlFile    = "data/urls.txt"
+	readmeFile = "Readme.md"
+)
+
 func main() {
 	var wg sync.WaitGroup
 	urls := loadUrls()
@@ -70,8 +75,8 @@ func check(err error) {
 }
 
 /*
- readmeHandler logic
- rough translation of https://github.com/mindreframer/techwatcher/blob/master/_sh/logic.rb
+	readmeHandler logic
+	rough translation of https://github.com/mindreframer/techwatcher/blob/master/_sh/logic.rb
 */
 
 type readmeHandler struct{}
@@ -90,12 +95,12 @@ func (rh readmeHandler) replaceProjects(repos []repoInfo) {
 	lines = append(lines, regexEnd)
 
 	r := regexp.MustCompile(pattern)
-	fmt.Println(r)
+	// fmt.Println(r)
 
-	data, err := ioutil.ReadFile("Readme.md")
+	data, err := ioutil.ReadFile(readmeFile)
 	check(err)
 	res := r.ReplaceAllString(string(data), strings.Join(lines, "\n"))
-	ioutil.WriteFile("Readme.md", []byte(res), 0777)
+	ioutil.WriteFile(readmeFile, []byte(res), 0777)
 }
 
 func (rh readmeHandler) replaceActivity(repos []repoInfo) {
@@ -111,12 +116,12 @@ func (rh readmeHandler) replaceActivity(repos []repoInfo) {
 	}
 	lines = append(lines, regexEnd)
 	r := regexp.MustCompile(pattern)
-	fmt.Println(r)
+	// fmt.Println(r)
 
-	data, err := ioutil.ReadFile("Readme.md")
+	data, err := ioutil.ReadFile(readmeFile)
 	check(err)
 	res := r.ReplaceAllString(string(data), strings.Join(lines, "\n"))
-	ioutil.WriteFile("Readme.md", []byte(res), 0777)
+	ioutil.WriteFile(readmeFile, []byte(res), 0777)
 }
 
 /*
@@ -189,7 +194,7 @@ func (r repoParser) localDoc() *goquery.Document {
 }
 
 /*
-repoInfo logic
+	repoInfo logic
 */
 type repoInfo struct {
 	url         string
@@ -223,11 +228,11 @@ func (ris reposByURL) Less(i, j int) bool { return ris[i].url < ris[j].url }
 func (ris reposByURL) Swap(i, j int)      { ris[i], ris[j] = ris[j], ris[i] }
 
 /*
-data loading (simple lines reader)
+	data loading (simple lines reader)
 */
 
 func loadUrls() []string {
-	return file2lines("data/urls.txt")
+	return file2lines(urlFile)
 }
 
 func file2lines(filePath string) []string {
@@ -252,5 +257,5 @@ func file2lines(filePath string) []string {
 }
 
 func validURL(l string) bool {
-	return !strings.Contains(l, " ") && len(l) != 0
+	return !strings.Contains(l, " ") && len(l) != 0 && !strings.Contains(l, "#")
 }
