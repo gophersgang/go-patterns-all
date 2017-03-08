@@ -54,8 +54,9 @@ The main purpose is reading / learning / teaching.
 - [thejerf/suture](https://github.com/thejerf/suture) - suture - Supervisor trees for Go. <br/> ( 2017-03-03 )
 - [timtadh/fs2](https://github.com/timtadh/fs2) - fs2 - B+ Tree - List - File Structures 2 - Memory Mapped File Structures for Go <br/> ( 2016-08-04 )
 - [tjarratt/go-best-practices](https://github.com/tjarratt/go-best-practices) - go-best-practices - A collection of best practices for writing web apps in Go <br/> ( 2016-07-29 )
-- [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - go-patterns - Curated list of Go design patterns, recipes and idioms <br/> ( 2017-03-06 )
+- [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - go-patterns - Curated list of Go design patterns, recipes and idioms <br/> ( 2017-03-08 )
 - [twotwotwo/sorts](https://github.com/twotwotwo/sorts) - sorts - Parallel and radix sorting in Go <br/> ( 2016-08-14 )
+- [udhos/golang-concurrency-tricks](https://github.com/udhos/golang-concurrency-tricks) - Contribute to golang-concurrency-tricks development by creating an account on GitHub. <br/> ( 2016-05-05 )
 - [ungerik/go-dry](https://github.com/ungerik/go-dry) - go-dry - DRY (don't repeat yourself) package for Go <br/> ( 2017-02-15 )
 - [vladimirvivien/go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples) - go-cshared-examples - Calling Go Functions from Other Languages using C Shared Libraries <br/> ( 2017-02-26 )
 - [vladimirvivien/learning-go](https://github.com/vladimirvivien/learning-go) - Contribute to learning-go development by creating an account on GitHub. <br/> ( 2017-01-04 )
@@ -65,9 +66,9 @@ The main purpose is reading / learning / teaching.
 
 ### By Activity
 <!-- ACTIVITY_LIST -->
+- 2017-03-08 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns)  <br/> go-patterns - Curated list of Go design patterns, recipes and idioms
 - 2017-03-07 - [exercism/xgo](https://github.com/exercism/xgo)  <br/> xgo - Exercism Exercises in Go
 - 2017-03-06 - [mitghi/buffpool](https://github.com/mitghi/buffpool)  <br/> buffpool - Recycling pool with lock-free contexts
-- 2017-03-06 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns)  <br/> go-patterns - Curated list of Go design patterns, recipes and idioms
 - 2017-03-06 - [gophersgang/golang-patterns-collection](https://github.com/gophersgang/golang-patterns-collection)  <br/> golang-patterns-collection - clone of http://www.golangpatterns.info/concurrency/coroutines
 - 2017-03-06 - [emirpasic/gods](https://github.com/emirpasic/gods)  <br/> gods - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON
 - 2017-03-06 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)  <br/> design-patterns-for-humans - Design Patterns for Humans™ - An ultra-simplified explanation
@@ -98,6 +99,7 @@ The main purpose is reading / learning / teaching.
 - 2016-07-29 - [tjarratt/go-best-practices](https://github.com/tjarratt/go-best-practices)  <br/> go-best-practices - A collection of best practices for writing web apps in Go
 - 2016-07-23 - [mrekucci/epi](https://github.com/mrekucci/epi)  <br/> epi - Solutions for Elements of Programming Interviews problems written in Golang (work-in-progress)
 - 2016-05-15 - [svett/golang-design-patterns](https://github.com/svett/golang-design-patterns)  <br/> golang-design-patterns - A Gang of Gophers (originally Gang of Four) design patterns written in Golang
+- 2016-05-05 - [udhos/golang-concurrency-tricks](https://github.com/udhos/golang-concurrency-tricks)  <br/> Contribute to golang-concurrency-tricks development by creating an account on GitHub.
 - 2016-05-01 - [f2prateek/semaphore](https://github.com/f2prateek/semaphore)  <br/> Contribute to semaphore development by creating an account on GitHub.
 - 2016-04-27 - [jbuberel/go-patterns](https://github.com/jbuberel/go-patterns)  <br/> Contribute to go-patterns development by creating an account on GitHub.
 - 2016-02-11 - [djherbis/buffer](https://github.com/djherbis/buffer)  <br/> buffer - Composable Buffers for Go #golang
