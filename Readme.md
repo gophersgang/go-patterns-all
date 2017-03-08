@@ -13,6 +13,7 @@ The main purpose is reading / learning / teaching.
 
 ### URLS
 
+- https://github.com/alioygur/is - is - Micro check library in Golang. <br/> ( 2017-02-13 )
 - https://github.com/clarkduvall/hyperloglog - hyperloglog - HyperLogLog and HyperLogLog++ implementation in Go/Golang. <br/> ( 2016-12-12 )
 - https://github.com/davecheney/high-performance-go-workshop - Contribute to high-performance-go-workshop development by creating an account on GitHub. <br/> ( 2016-12-25 )
 - https://github.com/deckarep/golang-set - golang-set - A simple set type for the Go language. <br/> ( 2017-02-02 )
