@@ -56,6 +56,7 @@ The main purpose is reading / learning / teaching.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - go-patterns - Curated list of Go design patterns, recipes and idioms <br/> ( 2017-03-06 )
 - [twotwotwo/sorts](https://github.com/twotwotwo/sorts) - sorts - Parallel and radix sorting in Go <br/> ( 2016-08-14 )
 - [ungerik/go-dry](https://github.com/ungerik/go-dry) - go-dry - DRY (don't repeat yourself) package for Go <br/> ( 2017-02-15 )
+- [vladimirvivien/go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples) - go-cshared-examples - Calling Go Functions from Other Languages using C Shared Libraries <br/> ( 2017-02-26 )
 - [workiva/go-datastructures](https://github.com/workiva/go-datastructures) - Contribute to go-datastructures development by creating an account on GitHub. <br/> ( 2017-03-02 )
 - [yksz/go-design-patterns](https://github.com/yksz/go-design-patterns) - go-design-patterns - Design patterns implemented with Golang <br/> ( 2014-06-07 )
 <!-- /PROJECTS_LIST -->
@@ -69,6 +70,7 @@ The main purpose is reading / learning / teaching.
 - 2017-03-06 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)  <br/> design-patterns-for-humans - Design Patterns for Humans™ - An ultra-simplified explanation
 - 2017-03-03 - [thejerf/suture](https://github.com/thejerf/suture)  <br/> suture - Supervisor trees for Go.
 - 2017-03-02 - [workiva/go-datastructures](https://github.com/workiva/go-datastructures)  <br/> Contribute to go-datastructures development by creating an account on GitHub.
+- 2017-02-26 - [vladimirvivien/go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples)  <br/> go-cshared-examples - Calling Go Functions from Other Languages using C Shared Libraries
 - 2017-02-22 - [serialx/hashring](https://github.com/serialx/hashring)  <br/> Consistent hashing "hashring" implementation in golang (using the same algorithm as libketama)
 - 2017-02-22 - [jpillora/backoff](https://github.com/jpillora/backoff)  <br/> Simple backoff algorithm in Go (golang)
 - 2017-02-16 - [golang/sync](https://github.com/golang/sync)  <br/> sync - [mirror] concurrency primitives
