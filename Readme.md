@@ -58,6 +58,7 @@ The main purpose is reading / learning / teaching.
 - [twotwotwo/sorts](https://github.com/twotwotwo/sorts) - sorts - Parallel and radix sorting in Go <br/> ( 2016-08-14 )
 - [ungerik/go-dry](https://github.com/ungerik/go-dry) - go-dry - DRY (don't repeat yourself) package for Go <br/> ( 2017-02-15 )
 - [vladimirvivien/go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples) - go-cshared-examples - Calling Go Functions from Other Languages using C Shared Libraries <br/> ( 2017-02-26 )
+- [vladimirvivien/learning-go](https://github.com/vladimirvivien/learning-go) - Contribute to learning-go development by creating an account on GitHub. <br/> ( 2017-01-04 )
 - [workiva/go-datastructures](https://github.com/workiva/go-datastructures) - Contribute to go-datastructures development by creating an account on GitHub. <br/> ( 2017-03-02 )
 - [yksz/go-design-patterns](https://github.com/yksz/go-design-patterns) - go-design-patterns - Design patterns implemented with Golang <br/> ( 2014-06-07 )
 <!-- /PROJECTS_LIST -->
@@ -83,6 +84,7 @@ The main purpose is reading / learning / teaching.
 - 2017-01-23 - [glycerine/offheap](https://github.com/glycerine/offheap)  <br/> an off-heap hash-table in Go. Used to be called go-offheap-hashtable, but we shortened it.
 - 2017-01-18 - [dgryski/go-perfbook](https://github.com/dgryski/go-perfbook)  <br/> go-perfbook - Thoughts on Go performance optimization
 - 2017-01-17 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map)  <br/> concurrent-map - a thread-safe concurrent map for go
+- 2017-01-04 - [vladimirvivien/learning-go](https://github.com/vladimirvivien/learning-go)  <br/> Contribute to learning-go development by creating an account on GitHub.
 - 2016-12-27 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample)  <br/> gobyexample - Go by Example
 - 2016-12-25 - [davecheney/high-performance-go-workshop](https://github.com/davecheney/high-performance-go-workshop)  <br/> Contribute to high-performance-go-workshop development by creating an account on GitHub.
 - 2016-12-12 - [clarkduvall/hyperloglog](https://github.com/clarkduvall/hyperloglog)  <br/> hyperloglog - HyperLogLog and HyperLogLog++ implementation in Go/Golang.

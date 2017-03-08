@@ -37,6 +37,7 @@ https://github.com/timtadh/fs2
 https://github.com/tjarratt/go-best-practices
 https://github.com/tmrts/go-patterns
 https://github.com/vladimirvivien/go-cshared-examples
+https://github.com/vladimirvivien/learning-go
 https://github.com/twotwotwo/sorts
 https://github.com/ungerik/go-dry
 https://github.com/Workiva/go-datastructures
