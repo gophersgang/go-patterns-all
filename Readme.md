@@ -38,6 +38,7 @@ The main purpose is reading / learning / teaching.
 - [jpillora/backoff](https://github.com/jpillora/backoff) - Simple backoff algorithm in Go (golang) <br/> ( 2017-02-22 )
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - design-patterns-for-humans - Design Patterns for Humans™ - An ultra-simplified explanation <br/> ( 2017-03-06 )
 - [logpacker/go-questions](https://github.com/logpacker/go-questions) - go-questions - Questions to estimate your Go level <br/> ( 2017-02-14 )
+- [mitghi/buffpool](https://github.com/mitghi/buffpool) - buffpool - Recycling pool with lock-free contexts <br/> ( 2017-03-06 )
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - gobyexample - Go by Example <br/> ( 2016-12-27 )
 - [monochromegane/go_design_pattern](https://github.com/monochromegane/go_design_pattern) - go_design_pattern - Design patterns in Golang. <br/> ( 2015-07-09 )
 - [mrekucci/epi](https://github.com/mrekucci/epi) - epi - Solutions for Elements of Programming Interviews problems written in Golang (work-in-progress) <br/> ( 2016-07-23 )
@@ -64,6 +65,7 @@ The main purpose is reading / learning / teaching.
 ### By Activity
 <!-- ACTIVITY_LIST -->
 - 2017-03-07 - [exercism/xgo](https://github.com/exercism/xgo)  <br/> xgo - Exercism Exercises in Go
+- 2017-03-06 - [mitghi/buffpool](https://github.com/mitghi/buffpool)  <br/> buffpool - Recycling pool with lock-free contexts
 - 2017-03-06 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns)  <br/> go-patterns - Curated list of Go design patterns, recipes and idioms
 - 2017-03-06 - [gophersgang/golang-patterns-collection](https://github.com/gophersgang/golang-patterns-collection)  <br/> golang-patterns-collection - clone of http://www.golangpatterns.info/concurrency/coroutines
 - 2017-03-06 - [emirpasic/gods](https://github.com/emirpasic/gods)  <br/> gods - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON
