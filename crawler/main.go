@@ -31,6 +31,9 @@ func main() {
 	wg.Wait()
 	printSortedAlpha(repos)
 	printSortedLastcommit(repos)
+	rh := readmeHandler{}
+	rh.replaceProjects(repos)
+	rh.replaceActivity(repos)
 }
 
 func printSortedAlpha(repos []repoInfo) {
@@ -77,7 +80,6 @@ func (rh readmeHandler) replaceProjects(repos []repoInfo) {
 	pattern := `(?s)<!-- PROJECTS_LIST -->(.*)<!-- /PROJECTS_LIST -->`
 	regexStart := `<!-- PROJECTS_LIST -->`
 	regexEnd := `<!-- /PROJECTS_LIST -->`
-	// emptyList := fmt.Sprintf("%s\n%s", regexStart, regexEnd)
 
 	sort.Sort(reposByURL(repos))
 	lines := []string{}
@@ -97,11 +99,24 @@ func (rh readmeHandler) replaceProjects(repos []repoInfo) {
 }
 
 func (rh readmeHandler) replaceActivity(repos []repoInfo) {
+	pattern := `(?s)<!-- ACTIVITY_LIST -->(.*)<!-- /ACTIVITY_LIST -->`
+	regexStart := `<!-- ACTIVITY_LIST -->`
+	regexEnd := `<!-- /ACTIVITY_LIST -->`
+
 	sort.Sort(reposByLastcommit(repos))
 	lines := []string{}
+	lines = append(lines, regexStart)
 	for _, repo := range repos {
 		lines = append(lines, repo.MarkdownActivity())
 	}
+	lines = append(lines, regexEnd)
+	r := regexp.MustCompile(pattern)
+	fmt.Println(r)
+
+	data, err := ioutil.ReadFile("Readme.md")
+	check(err)
+	res := r.ReplaceAllString(string(data), strings.Join(lines, "\n"))
+	ioutil.WriteFile("Readme.md", []byte(res), 0777)
 }
 
 /*
