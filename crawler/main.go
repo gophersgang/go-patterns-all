@@ -207,7 +207,7 @@ func (ri repoInfo) MarkdownActivity() string {
 	lastcommit := ri.lastcommit[0:10]
 	shorturl := strings.Replace(ri.url, "https://github.com/", "", -1)
 	link := fmt.Sprintf("[%s](%s)", shorturl, ri.url)
-	return fmt.Sprintf("- %s - %s  <br/> %s ", lastcommit, link, ri.description)
+	return fmt.Sprintf("- %s - %s  <br/> %s", lastcommit, link, ri.description)
 }
 
 type reposByLastcommit []repoInfo
