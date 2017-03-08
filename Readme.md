@@ -33,8 +33,10 @@ The main purpose is reading / learning / teaching.
 - https://github.com/jpillora/backoff.git
 - https://github.com/kamranahmedse/design-patterns-for-humans.git
 - https://github.com/logpacker/go-questions.git
+- https://github.com/mmcgrana/gobyexample
 - https://github.com/monochromegane/go_design_pattern.git
 - https://github.com/mrekucci/epi.git
+- https://github.com/NanXiao/golang-101-hacks
 - https://github.com/nieksand/sortgenerics
 - https://github.com/orcaman/concurrent-map.git
 - https://github.com/pierrec/xxHash
