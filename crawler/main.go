@@ -20,7 +20,9 @@ type repoInfo struct {
 
 func (ri repoInfo) Markdown() string {
 	shortcommit := ri.lastcommit[0:10]
-	return fmt.Sprintf("- %s - %s <br/> ( %s )", ri.url, ri.description, shortcommit)
+	short_url := strings.Replace(ri.url, "https://github.com/", "", -1)
+	//return fmt.Sprintf("- %s - %s <br/> ( %s )", ri.url, ri.description, shortcommit)
+	return fmt.Sprintf("- [%s](%s) - %s <br/> ( %s )", short_url, ri.url, ri.description, shortcommit)
 }
 
 type reposByLastcommit []repoInfo
