@@ -29,6 +29,7 @@ https://github.com/pierrec/xxHash
 https://github.com/rakyll/coop
 https://github.com/rubyist/circuitbreaker
 https://github.com/serialx/hashring
+https://github.com/StefanSchroeder/Golang-Regex-Tutorial
 https://github.com/svett/golang-design-patterns
 https://github.com/thejerf/suture
 https://github.com/timtadh/fs2
@@ -38,3 +39,4 @@ https://github.com/twotwotwo/sorts
 https://github.com/ungerik/go-dry
 https://github.com/Workiva/go-datastructures
 https://github.com/yksz/go-design-patterns
+
