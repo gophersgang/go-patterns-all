@@ -44,6 +44,7 @@ The main purpose is reading / learning / teaching.
 - [rakyll/coop](https://github.com/rakyll/coop) - coop - Cheat sheet for some of the common concurrent flows in Go <br/> ( 2015-10-06 )
 - [rubyist/circuitbreaker](https://github.com/rubyist/circuitbreaker) - circuitbreaker - Circuit Breakers in Go <br/> ( 2016-11-16 )
 - [serialx/hashring](https://github.com/serialx/hashring) - Consistent hashing "hashring" implementation in golang (using the same algorithm as libketama) <br/> ( 2017-02-22 )
+- [stefanschroeder/golang-regex-tutorial](https://github.com/stefanschroeder/golang-regex-tutorial) - Golang-Regex-Tutorial - Golang - Regular Expression Tutorial <br/> ( 2016-11-27 )
 - [svett/golang-design-patterns](https://github.com/svett/golang-design-patterns) - golang-design-patterns - A Gang of Gophers (originally Gang of Four) design patterns written in Golang <br/> ( 2016-05-15 )
 - [thejerf/suture](https://github.com/thejerf/suture) - suture - Supervisor trees for Go. <br/> ( 2017-03-03 )
 - [timtadh/fs2](https://github.com/timtadh/fs2) - fs2 - B+ Tree - List - File Structures 2 - Memory Mapped File Structures for Go <br/> ( 2016-08-04 )
@@ -77,6 +78,7 @@ The main purpose is reading / learning / teaching.
 - 2016-12-27 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample)  <br/> gobyexample - Go by Example
 - 2016-12-25 - [davecheney/high-performance-go-workshop](https://github.com/davecheney/high-performance-go-workshop)  <br/> Contribute to high-performance-go-workshop development by creating an account on GitHub.
 - 2016-12-12 - [clarkduvall/hyperloglog](https://github.com/clarkduvall/hyperloglog)  <br/> hyperloglog - HyperLogLog and HyperLogLog++ implementation in Go/Golang.
+- 2016-11-27 - [stefanschroeder/golang-regex-tutorial](https://github.com/stefanschroeder/golang-regex-tutorial)  <br/> Golang-Regex-Tutorial - Golang - Regular Expression Tutorial
 - 2016-11-16 - [rubyist/circuitbreaker](https://github.com/rubyist/circuitbreaker)  <br/> circuitbreaker - Circuit Breakers in Go
 - 2016-09-30 - [nanxiao/golang-101-hacks](https://github.com/nanxiao/golang-101-hacks)  <br/> golang-101-hacks - A rudimentary Go tutorial.
 - 2016-09-29 - [nieksand/sortgenerics](https://github.com/nieksand/sortgenerics)  <br/> sortgenerics - Overhead of Go's generic sort
