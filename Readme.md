@@ -11,6 +11,10 @@ The main purpose is reading / learning / teaching.
 
     $ make run
 
+### Update Readme with current stats
+
+    $ make crawl
+
 ### Projects
 <!-- PROJECTS_LIST -->
 - [alioygur/is](https://github.com/alioygur/is) - is - Micro check library in Golang. <br/> ( 2017-02-13 )
