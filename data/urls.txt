@@ -19,9 +19,10 @@ https://github.com/kamranahmedse/design-patterns-for-humans.git
 https://github.com/logpacker/go-questions.git
 https://github.com/NanXiao/golang-101-hacks
 https://github.com/nieksand/sortgenerics
+https://github.com/mmcgrana/gobyexample
 https://github.com/monochromegane/go_design_pattern.git
 https://github.com/mrekucci/epi.git
-https://github.com/orcaman/concurrent-map.git
+https://github.com/orcaman/concurrent-map
 https://github.com/pierrec/xxHash
 https://github.com/rakyll/coop
 https://github.com/rubyist/circuitbreaker.git
@@ -36,4 +37,4 @@ https://github.com/yksz/go-design-patterns.git
 https://github.com/f2prateek/semaphore
 https://github.com/emirpasic/gods
 https://github.com/serialx/hashring
-https://github.com/orcaman/concurrent-map
+
