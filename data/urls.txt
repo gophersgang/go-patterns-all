@@ -45,3 +45,4 @@ https://github.com/vladimirvivien/go-cshared-examples
 https://github.com/vladimirvivien/learning-go
 https://github.com/workiva/go-datastructures
 https://github.com/yksz/go-design-patterns
+https://github.com/mattkanwisher/microservices-book-code
