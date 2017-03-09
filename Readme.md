@@ -25,9 +25,10 @@ The main purpose is reading / learning / teaching.
 - [djherbis/buffer](https://github.com/djherbis/buffer) - Composable Buffers for Go #golang <br/> ( 2016-02-11 / 195 commits / 17 stars )
 - [eapache/go-resiliency](https://github.com/eapache/go-resiliency) - Resiliency patterns for golang <br/> ( 2016-01-04 / 44 commits / 31 stars )
 - [efischer19/golang_ctci](https://github.com/efischer19/golang_ctci) - Working my way through cracking the coding interview in Go, because I want to learn it <br/> ( 2015-06-12 / 43 commits / 0 stars )
-- [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON <br/> ( 2017-03-06 / 262 commits / 199 stars )
-- [exercism/xgo](https://github.com/exercism/xgo) - Exercism Exercises in Go <br/> ( 2017-03-09 / 963 commits / 92 stars )
+- [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON <br/> ( 2017-03-06 / 262 commits / 200 stars )
+- [exercism/xgo](https://github.com/exercism/xgo) - Exercism Exercises in Go <br/> ( 2017-03-09 / 964 commits / 92 stars )
 - [f2prateek/semaphore](https://github.com/f2prateek/semaphore) - --- <br/> ( 2016-05-01 / 6 commits / 0 stars )
+- [feyeleanor/gospeed](https://github.com/feyeleanor/gospeed) - Go micro-benchmarks for calculating the speed of language constructs <br/> ( 2016-01-27 / 26 commits / 4 stars )
 - [glycerine/offheap](https://github.com/glycerine/offheap) - an off-heap hash-table in Go. Used to be called go-offheap-hashtable, but we shortened it. <br/> ( 2017-01-23 / 92 commits / 7 stars )
 - [go-pipe/pipe](https://github.com/go-pipe/pipe) - Package pipe implements unix-like pipelines for Go. <br/> ( 2014-04-14 / 27 commits / 12 stars )
 - [golang/sync](https://github.com/golang/sync) - [mirror] concurrency primitives <br/> ( 2017-02-16 / 11 commits / 6 stars )
@@ -36,7 +37,7 @@ The main purpose is reading / learning / teaching.
 - [jbuberel/go-patterns](https://github.com/jbuberel/go-patterns) - --- <br/> ( 2016-04-27 / 19 commits / 31 stars )
 - [joeshaw/cuckoofilter](https://github.com/joeshaw/cuckoofilter) - An implementation of Cuckoo Filters in Go <br/> ( 2016-08-01 / 4 commits / 2 stars )
 - [jpillora/backoff](https://github.com/jpillora/backoff) - Simple backoff algorithm in Go (golang) <br/> ( 2017-02-22 / 23 commits / 17 stars )
-- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Design Patterns for Humans™ - An ultra-simplified explanation <br/> ( 2017-03-06 / 98 commits / 908 stars )
+- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Design Patterns for Humans™ - An ultra-simplified explanation <br/> ( 2017-03-06 / 98 commits / 907 stars )
 - [logpacker/go-questions](https://github.com/logpacker/go-questions) - Questions to estimate your Go level <br/> ( 2017-02-14 / 25 commits / 2 stars )
 - [mitghi/buffpool](https://github.com/mitghi/buffpool) - Recycling pool with lock-free contexts <br/> ( 2017-03-06 / 11 commits / 0 stars )
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example <br/> ( 2016-12-27 / 807 commits / 396 stars )
@@ -105,6 +106,7 @@ The main purpose is reading / learning / teaching.
 - [f2prateek/semaphore](https://github.com/f2prateek/semaphore): 2016-05-01 <br/> ---
 - [jbuberel/go-patterns](https://github.com/jbuberel/go-patterns): 2016-04-27 <br/> ---
 - [djherbis/buffer](https://github.com/djherbis/buffer): 2016-02-11 <br/> Composable Buffers for Go #golang
+- [feyeleanor/gospeed](https://github.com/feyeleanor/gospeed): 2016-01-27 <br/> Go micro-benchmarks for calculating the speed of language constructs
 - [pierrec/xxhash](https://github.com/pierrec/xxhash): 2016-01-12 <br/> Pure Go implementation of xxHash (32 and 64 bits versions)
 - [eapache/go-resiliency](https://github.com/eapache/go-resiliency): 2016-01-04 <br/> Resiliency patterns for golang
 - [rakyll/coop](https://github.com/rakyll/coop): 2015-10-06 <br/> Cheat sheet for some of the common concurrent flows in Go
@@ -120,11 +122,11 @@ The main purpose is reading / learning / teaching.
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample): 13.52 MB<br/>  (5.79 MB git / 7.73 MB code)
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures): 9.21 MB<br/>  (8.43 MB git / 0.78 MB code)
 - [davecheney/high-performance-go-workshop](https://github.com/davecheney/high-performance-go-workshop): 9.13 MB<br/>  (3.86 MB git / 5.26 MB code)
-- [exercism/xgo](https://github.com/exercism/xgo): 2.56 MB<br/>  (1.92 MB git / 0.64 MB code)
+- [exercism/xgo](https://github.com/exercism/xgo): 2.56 MB<br/>  (1.93 MB git / 0.64 MB code)
 - [vladimirvivien/learning-go](https://github.com/vladimirvivien/learning-go): 1.69 MB<br/>  (0.50 MB git / 1.19 MB code)
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns): 1.09 MB<br/>  (0.93 MB git / 0.15 MB code)
 - [emirpasic/gods](https://github.com/emirpasic/gods): 1.00 MB<br/>  (0.56 MB git / 0.44 MB code)
-- [timtadh/fs2](https://github.com/timtadh/fs2): 0.66 MB<br/>  (0.36 MB git / 0.30 MB code)
+- [timtadh/fs2](https://github.com/timtadh/fs2): 0.67 MB<br/>  (0.36 MB git / 0.30 MB code)
 - [mrekucci/epi](https://github.com/mrekucci/epi): 0.61 MB<br/>  (0.33 MB git / 0.27 MB code)
 - [gophergala/go-algos](https://github.com/gophergala/go-algos): 0.43 MB<br/>  (0.16 MB git / 0.27 MB code)
 - [deckarep/golang-set](https://github.com/deckarep/golang-set): 0.28 MB<br/>  (0.22 MB git / 0.06 MB code)
@@ -154,6 +156,7 @@ The main purpose is reading / learning / teaching.
 - [golang/sync](https://github.com/golang/sync): 0.08 MB<br/>  (0.04 MB git / 0.03 MB code)
 - [jbuberel/go-patterns](https://github.com/jbuberel/go-patterns): 0.07 MB<br/>  (0.04 MB git / 0.03 MB code)
 - [yksz/go-design-patterns](https://github.com/yksz/go-design-patterns): 0.07 MB<br/>  (0.05 MB git / 0.02 MB code)
+- [feyeleanor/gospeed](https://github.com/feyeleanor/gospeed): 0.07 MB<br/>  (0.04 MB git / 0.03 MB code)
 - [pierrec/xxHash](https://github.com/pierrec/xxHash): 0.07 MB<br/>  (0.04 MB git / 0.02 MB code)
 - [logpacker/go-questions](https://github.com/logpacker/go-questions): 0.06 MB<br/>  (0.06 MB git / 0.01 MB code)
 - [vladimirvivien/go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples): 0.06 MB<br/>  (0.04 MB git / 0.03 MB code)
