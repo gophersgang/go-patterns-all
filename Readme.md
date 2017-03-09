@@ -45,6 +45,7 @@ The main purpose is reading / learning / teaching.
 - [nanxiao/golang-101-hacks](https://github.com/nanxiao/golang-101-hacks) - A rudimentary Go tutorial. <br/> ( 2016-09-30 / 96 commits / 6 stars )
 - [nieksand/sortgenerics](https://github.com/nieksand/sortgenerics) - Overhead of Go's generic sort <br/> ( 2016-09-29 / 17 commits / 0 stars )
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go <br/> ( 2017-01-17 / 82 commits / 89 stars )
+- [picadoh/gostreamer](https://github.com/picadoh/gostreamer) - Go example that uses channels to build an execution pipeline <br/> ( 2016-10-05 / 29 commits / 3 stars )
 - [pierrec/xxhash](https://github.com/pierrec/xxhash) - Pure Go implementation of xxHash (32 and 64 bits versions) <br/> ( 2016-01-12 / 12 commits / 4 stars )
 - [rakyll/coop](https://github.com/rakyll/coop) - Cheat sheet for some of the common concurrent flows in Go <br/> ( 2015-10-06 / 20 commits / 46 stars )
 - [rubyist/circuitbreaker](https://github.com/rubyist/circuitbreaker) - Circuit Breakers in Go <br/> ( 2016-11-16 / 109 commits / 32 stars )
@@ -91,6 +92,7 @@ The main purpose is reading / learning / teaching.
 - 2016-12-12 - [clarkduvall/hyperloglog](https://github.com/clarkduvall/hyperloglog)  <br/> HyperLogLog and HyperLogLog++ implementation in Go/Golang.
 - 2016-11-27 - [stefanschroeder/golang-regex-tutorial](https://github.com/stefanschroeder/golang-regex-tutorial)  <br/> Golang - Regular Expression Tutorial
 - 2016-11-16 - [rubyist/circuitbreaker](https://github.com/rubyist/circuitbreaker)  <br/> Circuit Breakers in Go
+- 2016-10-05 - [picadoh/gostreamer](https://github.com/picadoh/gostreamer)  <br/> Go example that uses channels to build an execution pipeline
 - 2016-09-30 - [nanxiao/golang-101-hacks](https://github.com/nanxiao/golang-101-hacks)  <br/> A rudimentary Go tutorial.
 - 2016-09-29 - [nieksand/sortgenerics](https://github.com/nieksand/sortgenerics)  <br/> Overhead of Go's generic sort
 - 2016-08-14 - [twotwotwo/sorts](https://github.com/twotwotwo/sorts)  <br/> Parallel and radix sorting in Go

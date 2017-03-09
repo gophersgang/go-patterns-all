@@ -26,6 +26,7 @@ https://github.com/mrekucci/epi
 https://github.com/NanXiao/golang-101-hacks
 https://github.com/nieksand/sortgenerics
 https://github.com/orcaman/concurrent-map
+https://github.com/picadoh/gostreamer
 https://github.com/pierrec/xxHash
 https://github.com/rakyll/coop
 https://github.com/rubyist/circuitbreaker
@@ -43,4 +44,3 @@ https://github.com/udhos/golang-concurrency-tricks
 https://github.com/ungerik/go-dry
 https://github.com/Workiva/go-datastructures
 https://github.com/yksz/go-design-patterns
-
