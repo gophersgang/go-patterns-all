@@ -61,7 +61,7 @@ The main purpose is reading / learning / teaching.
 - [ungerik/go-dry](https://github.com/ungerik/go-dry) - DRY (don't repeat yourself) package for Go <br/> ( 2017-02-15 / 99 commits / 17 stars )
 - [vladimirvivien/go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples) - Calling Go Functions from Other Languages using C Shared Libraries <br/> ( 2017-02-26 / 8 commits / 0 stars )
 - [vladimirvivien/learning-go](https://github.com/vladimirvivien/learning-go) -  ---  <br/> ( 2017-01-04 / 7 commits / 4 stars )
-- [workiva/go-datastructures](https://github.com/workiva/go-datastructures) -  ---  <br/> ( 2017-03-02 / 621 commits / 282 stars )
+- [workiva/go-datastructures](https://github.com/workiva/go-datastructures) -  ---  <br/> ( 2017-03-02 / 621 commits / 284 stars )
 - [yksz/go-design-patterns](https://github.com/yksz/go-design-patterns) - Design patterns implemented with Golang <br/> ( 2014-06-07 / 38 commits / 8 stars )
 <!-- /PROJECTS_LIST -->
 
