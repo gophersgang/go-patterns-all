@@ -16,7 +16,7 @@ func check(e error) {
 }
 
 func main() {
-	s := newSemaphore(10)
+	s := newSemaphore(20)
 	var wg sync.WaitGroup
 	urls := loadUrls()
 	for _, url := range urls {
@@ -103,8 +103,8 @@ func (r *repo) projectName() string {
 
 // full path to repo folder
 func (r *repo) fullPath() string {
-	a := []string{"src", r.projectName()}
-	return strings.Join(a, "/")
+	parts := strings.SplitN(r.url, "github.com/", 2)
+	return "src/github.com/" + parts[1]
 }
 
 /*****************************************************************
@@ -161,5 +161,5 @@ func file2lines(filePath string) []string {
 }
 
 func validURL(l string) bool {
-	return !strings.Contains(l, " ") && len(l) != 0 && !strings.Contains(l, "#")
+	return !strings.Contains(l, " ") && len(l) != 0
 }
