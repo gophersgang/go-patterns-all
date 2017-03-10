@@ -51,6 +51,7 @@ The main purpose is reading / learning / teaching.
 - [mitghi/buffpool](https://github.com/mitghi/buffpool) - Recycling pool with lock-free contexts <br/> ( 2017-03-06 / 11 commits / 0 stars )
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example <br/> ( 2016-12-27 / 807 commits / 396 stars )
 - [monochromegane/go_design_pattern](https://github.com/monochromegane/go_design_pattern) - Design patterns in Golang. <br/> ( 2015-07-09 / 36 commits / 86 stars )
+- [moul/euler](https://github.com/moul/euler) - :game_die: Project Euler in Golang <br/> ( 2016-10-19 / 62 commits / 0 stars )
 - [mrekucci/epi](https://github.com/mrekucci/epi) - Solutions for Elements of Programming Interviews problems written in Golang (work-in-progress) <br/> ( 2016-07-23 / 285 commits / 11 stars )
 - [nanxiao/golang-101-hacks](https://github.com/nanxiao/golang-101-hacks) - A rudimentary Go tutorial. <br/> ( 2016-09-30 / 96 commits / 7 stars )
 - [nieksand/sortgenerics](https://github.com/nieksand/sortgenerics) - Overhead of Go's generic sort <br/> ( 2016-09-29 / 17 commits / 0 stars )
@@ -58,7 +59,7 @@ The main purpose is reading / learning / teaching.
 - [picadoh/gostreamer](https://github.com/picadoh/gostreamer) - Go example that uses channels to build an execution pipeline <br/> ( 2016-10-05 / 29 commits / 3 stars )
 - [pierrec/xxhash](https://github.com/pierrec/xxhash) - Pure Go implementation of xxHash (32 and 64 bits versions) <br/> ( 2016-01-12 / 12 commits / 4 stars )
 - [rakyll/coop](https://github.com/rakyll/coop) - Cheat sheet for some of the common concurrent flows in Go <br/> ( 2015-10-06 / 20 commits / 46 stars )
-- [rubyist/circuitbreaker](https://github.com/rubyist/circuitbreaker) - Circuit Breakers in Go <br/> ( 2016-11-16 / 109 commits / 32 stars )
+- [rubyist/circuitbreaker](https://github.com/rubyist/circuitbreaker) - Circuit Breakers in Go <br/> ( 2016-11-16 / 109 commits / 33 stars )
 - [serialx/hashring](https://github.com/serialx/hashring) - Consistent hashing "hashring" implementation in golang (using the same algorithm as libketama) <br/> ( 2017-02-22 / 26 commits / 24 stars )
 - [stefanschroeder/golang-regex-tutorial](https://github.com/stefanschroeder/golang-regex-tutorial) - Golang - Regular Expression Tutorial <br/> ( 2016-11-27 / 89 commits / 68 stars )
 - [streadway/quantile](https://github.com/streadway/quantile) - Space efficient streaming quantile estimator <br/> ( 2015-09-17 / 26 commits / 3 stars )
@@ -112,6 +113,7 @@ The main purpose is reading / learning / teaching.
 - [stefanschroeder/golang-regex-tutorial](https://github.com/stefanschroeder/golang-regex-tutorial): 2016-11-27 <br/> Golang - Regular Expression Tutorial
 - [rubyist/circuitbreaker](https://github.com/rubyist/circuitbreaker): 2016-11-16 <br/> Circuit Breakers in Go
 - [xlab/closer](https://github.com/xlab/closer): 2016-11-13 <br/> Package closer ensures a clean exit for your Go app.
+- [moul/euler](https://github.com/moul/euler): 2016-10-19 <br/> :game_die: Project Euler in Golang
 - [picadoh/gostreamer](https://github.com/picadoh/gostreamer): 2016-10-05 <br/> Go example that uses channels to build an execution pipeline
 - [nanxiao/golang-101-hacks](https://github.com/nanxiao/golang-101-hacks): 2016-09-30 <br/> A rudimentary Go tutorial.
 - [nieksand/sortgenerics](https://github.com/nieksand/sortgenerics): 2016-09-29 <br/> Overhead of Go's generic sort
@@ -156,6 +158,7 @@ The main purpose is reading / learning / teaching.
 - [deckarep/golang-set](https://github.com/deckarep/golang-set): 0.28 MB<br/>  (0.22 MB git / 0.06 MB code)
 - [NanXiao/golang-101-hacks](https://github.com/NanXiao/golang-101-hacks): 0.27 MB<br/>  (0.13 MB git / 0.14 MB code)
 - [clarkduvall/hyperloglog](https://github.com/clarkduvall/hyperloglog): 0.26 MB<br/>  (0.13 MB git / 0.14 MB code)
+- [moul/euler](https://github.com/moul/euler): 0.25 MB<br/>  (0.13 MB git / 0.11 MB code)
 - [dgryski/go-frugal](https://github.com/dgryski/go-frugal): 0.22 MB<br/>  (0.11 MB git / 0.11 MB code)
 - [alioygur/is](https://github.com/alioygur/is): 0.22 MB<br/>  (0.14 MB git / 0.08 MB code)
 - [djherbis/buffer](https://github.com/djherbis/buffer): 0.21 MB<br/>  (0.16 MB git / 0.05 MB code)
@@ -198,7 +201,7 @@ The main purpose is reading / learning / teaching.
 - [xlab/closer](https://github.com/xlab/closer): 0.06 MB<br/>  (0.04 MB git / 0.01 MB code)
 - [jpillora/backoff](https://github.com/jpillora/backoff): 0.05 MB<br/>  (0.05 MB git / 0.01 MB code)
 - [abcum/lcp](https://github.com/abcum/lcp): 0.05 MB<br/>  (0.03 MB git / 0.02 MB code)
-- [ghthor/iprep](https://github.com/ghthor/iprep): 0.04 MB<br/>  (0.03 MB git / 0.01 MB code)
+- [ghthor/iprep](https://github.com/ghthor/iprep): 0.04 MB<br/>  (0.04 MB git / 0.01 MB code)
 - [joeshaw/cuckoofilter](https://github.com/joeshaw/cuckoofilter): 0.03 MB<br/>  (0.02 MB git / 0.01 MB code)
 - [f2prateek/semaphore](https://github.com/f2prateek/semaphore): 0.02 MB<br/>  (0.02 MB git / 0.00 MB code)
 - [gophersgang/golang-patterns-collection](https://github.com/gophersgang/golang-patterns-collection): 0.02 MB<br/>  (0.02 MB git / 0.00 MB code)

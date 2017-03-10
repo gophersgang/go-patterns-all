@@ -32,6 +32,7 @@ https://github.com/mattkanwisher/microservices-book-code
 https://github.com/mitghi/buffpool
 https://github.com/mmcgrana/gobyexample
 https://github.com/monochromegane/go_design_pattern
+https://github.com/moul/euler
 https://github.com/mrekucci/epi
 https://github.com/nanxiao/golang-101-hacks
 https://github.com/nieksand/sortgenerics
