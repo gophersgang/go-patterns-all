@@ -2,6 +2,7 @@ https://github.com/alioygur/is
 https://github.com/clarkduvall/hyperloglog
 https://github.com/davecheney/high-performance-go-workshop
 https://github.com/deckarep/golang-set
+https://github.com/dgryski/go-frugal
 https://github.com/dgryski/go-perfbook
 https://github.com/djherbis/buffer
 https://github.com/eapache/go-resiliency
@@ -20,6 +21,7 @@ https://github.com/joeshaw/cuckoofilter
 https://github.com/jpillora/backoff
 https://github.com/kamranahmedse/design-patterns-for-humans
 https://github.com/logpacker/go-questions
+https://github.com/mattkanwisher/microservices-book-code
 https://github.com/mitghi/buffpool
 https://github.com/mmcgrana/gobyexample
 https://github.com/monochromegane/go_design_pattern
@@ -45,4 +47,3 @@ https://github.com/vladimirvivien/go-cshared-examples
 https://github.com/vladimirvivien/learning-go
 https://github.com/workiva/go-datastructures
 https://github.com/yksz/go-design-patterns
-https://github.com/mattkanwisher/microservices-book-code
