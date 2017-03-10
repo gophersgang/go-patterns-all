@@ -1,3 +1,8 @@
+https://github.com/abcum/cachr
+https://github.com/abcum/lcp
+https://github.com/abcum/ptree
+https://github.com/abcum/tlist
+https://github.com/abcum/vtree
 https://github.com/alioygur/is
 https://github.com/clarkduvall/hyperloglog
 https://github.com/davecheney/high-performance-go-workshop
@@ -11,6 +16,7 @@ https://github.com/emirpasic/gods
 https://github.com/exercism/xgo
 https://github.com/f2prateek/semaphore
 https://github.com/feyeleanor/gospeed
+https://github.com/ghthor/iprep
 https://github.com/glycerine/offheap
 https://github.com/go-pipe/pipe
 https://github.com/golang/sync
@@ -36,11 +42,13 @@ https://github.com/rakyll/coop
 https://github.com/rubyist/circuitbreaker
 https://github.com/serialx/hashring
 https://github.com/stefanschroeder/golang-regex-tutorial
+https://github.com/streadway/quantile
 https://github.com/svett/golang-design-patterns
 https://github.com/thejerf/suture
 https://github.com/timtadh/fs2
 https://github.com/tjarratt/go-best-practices
 https://github.com/tmrts/go-patterns
+https://github.com/tsenart/tb
 https://github.com/twotwotwo/sorts
 https://github.com/udhos/golang-concurrency-tricks
 https://github.com/ungerik/go-dry
