@@ -15,6 +15,11 @@ The main purpose is reading / learning / teaching.
 
     $ make crawl
 
+### Navigation
+
+- [By Size](#by-size)
+- [By Activity](#by-activity)
+
 ### Projects
 <!-- PROJECTS_LIST -->
 - [abcum/cachr](https://github.com/abcum/cachr) - A library of in-memory caching algorithms for Go <br/> ( 2017-01-15 / 25 commits / 0 stars )
@@ -31,7 +36,7 @@ The main purpose is reading / learning / teaching.
 - [djherbis/buffer](https://github.com/djherbis/buffer) - Composable Buffers for Go #golang <br/> ( 2016-02-11 / 195 commits / 17 stars )
 - [eapache/go-resiliency](https://github.com/eapache/go-resiliency) - Resiliency patterns for golang <br/> ( 2016-01-04 / 44 commits / 31 stars )
 - [efischer19/golang_ctci](https://github.com/efischer19/golang_ctci) - Working my way through cracking the coding interview in Go, because I want to learn it <br/> ( 2015-06-12 / 43 commits / 0 stars )
-- [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON <br/> ( 2017-03-06 / 262 commits / 200 stars )
+- [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON <br/> ( 2017-03-06 / 262 commits / 201 stars )
 - [exercism/xgo](https://github.com/exercism/xgo) - Exercism Exercises in Go <br/> ( 2017-03-09 / 966 commits / 92 stars )
 - [f2prateek/semaphore](https://github.com/f2prateek/semaphore) - --- <br/> ( 2016-05-01 / 6 commits / 0 stars )
 - [feyeleanor/gospeed](https://github.com/feyeleanor/gospeed) - Go micro-benchmarks for calculating the speed of language constructs <br/> ( 2016-01-27 / 26 commits / 4 stars )
@@ -56,6 +61,7 @@ The main purpose is reading / learning / teaching.
 - [nanxiao/golang-101-hacks](https://github.com/nanxiao/golang-101-hacks) - A rudimentary Go tutorial. <br/> ( 2016-09-30 / 96 commits / 7 stars )
 - [nieksand/sortgenerics](https://github.com/nieksand/sortgenerics) - Overhead of Go's generic sort <br/> ( 2016-09-29 / 17 commits / 0 stars )
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map) - a thread-safe concurrent map for go <br/> ( 2017-01-17 / 82 commits / 89 stars )
+- [peterbourgon/go-training](https://github.com/peterbourgon/go-training) - Exercises <br/> ( 2016-02-26 / 6 commits / 0 stars )
 - [picadoh/gostreamer](https://github.com/picadoh/gostreamer) - Go example that uses channels to build an execution pipeline <br/> ( 2016-10-05 / 29 commits / 3 stars )
 - [pierrec/xxhash](https://github.com/pierrec/xxhash) - Pure Go implementation of xxHash (32 and 64 bits versions) <br/> ( 2016-01-12 / 12 commits / 4 stars )
 - [rakyll/coop](https://github.com/rakyll/coop) - Cheat sheet for some of the common concurrent flows in Go <br/> ( 2015-10-06 / 20 commits / 46 stars )
@@ -127,6 +133,7 @@ The main purpose is reading / learning / teaching.
 - [udhos/golang-concurrency-tricks](https://github.com/udhos/golang-concurrency-tricks): 2016-05-05 <br/> ---
 - [f2prateek/semaphore](https://github.com/f2prateek/semaphore): 2016-05-01 <br/> ---
 - [jbuberel/go-patterns](https://github.com/jbuberel/go-patterns): 2016-04-27 <br/> ---
+- [peterbourgon/go-training](https://github.com/peterbourgon/go-training): 2016-02-26 <br/> Exercises
 - [djherbis/buffer](https://github.com/djherbis/buffer): 2016-02-11 <br/> Composable Buffers for Go #golang
 - [feyeleanor/gospeed](https://github.com/feyeleanor/gospeed): 2016-01-27 <br/> Go micro-benchmarks for calculating the speed of language constructs
 - [pierrec/xxhash](https://github.com/pierrec/xxhash): 2016-01-12 <br/> Pure Go implementation of xxHash (32 and 64 bits versions)
@@ -190,6 +197,7 @@ The main purpose is reading / learning / teaching.
 - [dgryski/go-perfbook](https://github.com/dgryski/go-perfbook): 0.08 MB<br/>  (0.07 MB git / 0.01 MB code)
 - [serialx/hashring](https://github.com/serialx/hashring): 0.08 MB<br/>  (0.05 MB git / 0.02 MB code)
 - [golang/sync](https://github.com/golang/sync): 0.08 MB<br/>  (0.04 MB git / 0.03 MB code)
+- [peterbourgon/go-training](https://github.com/peterbourgon/go-training): 0.07 MB<br/>  (0.05 MB git / 0.03 MB code)
 - [jbuberel/go-patterns](https://github.com/jbuberel/go-patterns): 0.07 MB<br/>  (0.04 MB git / 0.03 MB code)
 - [feyeleanor/gospeed](https://github.com/feyeleanor/gospeed): 0.07 MB<br/>  (0.04 MB git / 0.03 MB code)
 - [yksz/go-design-patterns](https://github.com/yksz/go-design-patterns): 0.07 MB<br/>  (0.05 MB git / 0.02 MB code)
