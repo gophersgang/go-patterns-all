@@ -36,6 +36,7 @@ The main purpose is reading / learning / teaching.
 - [gophergala/go-algos](https://github.com/gophergala/go-algos) - --- <br/> ( 2015-01-26 / 42 commits / 8 stars )
 - [gophersgang/golang-patterns-collection](https://github.com/gophersgang/golang-patterns-collection) - clone of http://www.golangpatterns.info/concurrency/coroutines <br/> ( 2017-03-06 / 2 commits / 0 stars )
 - [jbuberel/go-patterns](https://github.com/jbuberel/go-patterns) - --- <br/> ( 2016-04-27 / 19 commits / 31 stars )
+- [joernweissenborn/eventual2go](https://github.com/joernweissenborn/eventual2go) - Streams and Futures for Go. <br/> ( 2017-03-08 / 69 commits / 0 stars )
 - [joeshaw/cuckoofilter](https://github.com/joeshaw/cuckoofilter) - An implementation of Cuckoo Filters in Go <br/> ( 2016-08-01 / 4 commits / 2 stars )
 - [jpillora/backoff](https://github.com/jpillora/backoff) - Simple backoff algorithm in Go (golang) <br/> ( 2017-02-22 / 23 commits / 17 stars )
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Design Patterns for Humans™ - An ultra-simplified explanation <br/> ( 2017-03-06 / 98 commits / 912 stars )
@@ -65,12 +66,14 @@ The main purpose is reading / learning / teaching.
 - [vladimirvivien/go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples) - Calling Go Functions from Other Languages using C Shared Libraries <br/> ( 2017-02-26 / 8 commits / 1 stars )
 - [vladimirvivien/learning-go](https://github.com/vladimirvivien/learning-go) - --- <br/> ( 2017-01-04 / 7 commits / 5 stars )
 - [workiva/go-datastructures](https://github.com/workiva/go-datastructures) - --- <br/> ( 2017-03-02 / 621 commits / 284 stars )
+- [xlab/closer](https://github.com/xlab/closer) - Package closer ensures a clean exit for your Go app. <br/> ( 2016-11-13 / 12 commits / 2 stars )
 - [yksz/go-design-patterns](https://github.com/yksz/go-design-patterns) - Design patterns implemented with Golang <br/> ( 2014-06-07 / 38 commits / 8 stars )
 <!-- /PROJECTS_LIST -->
 
 ### By Activity
 <!-- ACTIVITY_LIST -->
 - [exercism/xgo](https://github.com/exercism/xgo): 2017-03-09 <br/> Exercism Exercises in Go
+- [joernweissenborn/eventual2go](https://github.com/joernweissenborn/eventual2go): 2017-03-08 <br/> Streams and Futures for Go.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns): 2017-03-08 <br/> Curated list of Go design patterns, recipes and idioms
 - [mitghi/buffpool](https://github.com/mitghi/buffpool): 2017-03-06 <br/> Recycling pool with lock-free contexts
 - [gophersgang/golang-patterns-collection](https://github.com/gophersgang/golang-patterns-collection): 2017-03-06 <br/> clone of http://www.golangpatterns.info/concurrency/coroutines
@@ -95,6 +98,7 @@ The main purpose is reading / learning / teaching.
 - [clarkduvall/hyperloglog](https://github.com/clarkduvall/hyperloglog): 2016-12-12 <br/> HyperLogLog and HyperLogLog++ implementation in Go/Golang.
 - [stefanschroeder/golang-regex-tutorial](https://github.com/stefanschroeder/golang-regex-tutorial): 2016-11-27 <br/> Golang - Regular Expression Tutorial
 - [rubyist/circuitbreaker](https://github.com/rubyist/circuitbreaker): 2016-11-16 <br/> Circuit Breakers in Go
+- [xlab/closer](https://github.com/xlab/closer): 2016-11-13 <br/> Package closer ensures a clean exit for your Go app.
 - [picadoh/gostreamer](https://github.com/picadoh/gostreamer): 2016-10-05 <br/> Go example that uses channels to build an execution pipeline
 - [nanxiao/golang-101-hacks](https://github.com/nanxiao/golang-101-hacks): 2016-09-30 <br/> A rudimentary Go tutorial.
 - [nieksand/sortgenerics](https://github.com/nieksand/sortgenerics): 2016-09-29 <br/> Overhead of Go's generic sort
@@ -143,6 +147,7 @@ The main purpose is reading / learning / teaching.
 - [ungerik/go-dry](https://github.com/ungerik/go-dry): 0.19 MB<br/>  (0.11 MB git / 0.08 MB code)
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans): 0.18 MB<br/>  (0.12 MB git / 0.06 MB code)
 - [rubyist/circuitbreaker](https://github.com/rubyist/circuitbreaker): 0.18 MB<br/>  (0.13 MB git / 0.05 MB code)
+- [joernweissenborn/eventual2go](https://github.com/joernweissenborn/eventual2go): 0.17 MB<br/>  (0.10 MB git / 0.08 MB code)
 - [StefanSchroeder/Golang-Regex-Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial): 0.17 MB<br/>  (0.09 MB git / 0.07 MB code)
 - [go-pipe/pipe](https://github.com/go-pipe/pipe): 0.17 MB<br/>  (0.12 MB git / 0.04 MB code)
 - [twotwotwo/sorts](https://github.com/twotwotwo/sorts): 0.17 MB<br/>  (0.09 MB git / 0.07 MB code)
@@ -168,6 +173,7 @@ The main purpose is reading / learning / teaching.
 - [vladimirvivien/go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples): 0.06 MB<br/>  (0.04 MB git / 0.03 MB code)
 - [rakyll/coop](https://github.com/rakyll/coop): 0.06 MB<br/>  (0.05 MB git / 0.01 MB code)
 - [udhos/golang-concurrency-tricks](https://github.com/udhos/golang-concurrency-tricks): 0.06 MB<br/>  (0.06 MB git / 0.00 MB code)
+- [xlab/closer](https://github.com/xlab/closer): 0.06 MB<br/>  (0.04 MB git / 0.01 MB code)
 - [jpillora/backoff](https://github.com/jpillora/backoff): 0.05 MB<br/>  (0.05 MB git / 0.01 MB code)
 - [joeshaw/cuckoofilter](https://github.com/joeshaw/cuckoofilter): 0.03 MB<br/>  (0.02 MB git / 0.01 MB code)
 - [f2prateek/semaphore](https://github.com/f2prateek/semaphore): 0.02 MB<br/>  (0.02 MB git / 0.00 MB code)
