@@ -27,6 +27,7 @@ The main purpose is reading / learning / teaching.
 - [abcum/ptree](https://github.com/abcum/ptree) - A radix tree library implementation for Go <br/> ( 2017-02-11 / 16 commits / 0 stars )
 - [abcum/tlist](https://github.com/abcum/tlist) - A time series list implementation for Go <br/> ( 2017-02-10 / 36 commits / 0 stars )
 - [abcum/vtree](https://github.com/abcum/vtree) - A versioned radix tree library implementation for Go <br/> ( 2017-02-11 / 13 commits / 0 stars )
+- [alexandergrom/go-patterns](https://github.com/alexandergrom/go-patterns) - Design patterns in Golang <br/> ( 2017-03-07 / 20 commits / 19 stars )
 - [alioygur/is](https://github.com/alioygur/is) - Micro check library in Golang. <br/> ( 2017-02-13 / 24 commits / 6 stars )
 - [arnauddri/algorithms](https://github.com/arnauddri/algorithms) - Algorithms & Data Structures in Go <br/> ( 2015-02-02 / 134 commits / 130 stars )
 - [clarkduvall/hyperloglog](https://github.com/clarkduvall/hyperloglog) - HyperLogLog and HyperLogLog++ implementation in Go/Golang. <br/> ( 2016-12-12 / 34 commits / 28 stars )
@@ -47,6 +48,7 @@ The main purpose is reading / learning / teaching.
 - [golang/sync](https://github.com/golang/sync) - [mirror] concurrency primitives <br/> ( 2017-02-16 / 11 commits / 7 stars )
 - [gophergala/go-algos](https://github.com/gophergala/go-algos) - --- <br/> ( 2015-01-26 / 42 commits / 8 stars )
 - [gophersgang/golang-patterns-collection](https://github.com/gophersgang/golang-patterns-collection) - clone of http://www.golangpatterns.info/concurrency/coroutines <br/> ( 2017-03-06 / 2 commits / 0 stars )
+- [imdario/mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013 <br/> ( 2016-05-17 / 70 commits / 53 stars )
 - [jbuberel/go-patterns](https://github.com/jbuberel/go-patterns) - --- <br/> ( 2016-04-27 / 19 commits / 31 stars )
 - [joernweissenborn/eventual2go](https://github.com/joernweissenborn/eventual2go) - Streams and Futures for Go. <br/> ( 2017-03-08 / 69 commits / 0 stars )
 - [joeshaw/cuckoofilter](https://github.com/joeshaw/cuckoofilter) - An implementation of Cuckoo Filters in Go <br/> ( 2016-08-01 / 4 commits / 2 stars )
@@ -93,6 +95,7 @@ The main purpose is reading / learning / teaching.
 - [exercism/xgo](https://github.com/exercism/xgo): 2017-03-11 <br/> Exercism Exercises in Go
 - [joernweissenborn/eventual2go](https://github.com/joernweissenborn/eventual2go): 2017-03-08 <br/> Streams and Futures for Go.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns): 2017-03-08 <br/> Curated list of Go design patterns, recipes and idioms
+- [alexandergrom/go-patterns](https://github.com/alexandergrom/go-patterns): 2017-03-07 <br/> Design patterns in Golang
 - [mitghi/buffpool](https://github.com/mitghi/buffpool): 2017-03-06 <br/> Recycling pool with lock-free contexts
 - [gophersgang/golang-patterns-collection](https://github.com/gophersgang/golang-patterns-collection): 2017-03-06 <br/> clone of http://www.golangpatterns.info/concurrency/coroutines
 - [emirpasic/gods](https://github.com/emirpasic/gods): 2017-03-06 <br/> GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON
@@ -133,6 +136,7 @@ The main purpose is reading / learning / teaching.
 - [joeshaw/cuckoofilter](https://github.com/joeshaw/cuckoofilter): 2016-08-01 <br/> An implementation of Cuckoo Filters in Go
 - [tjarratt/go-best-practices](https://github.com/tjarratt/go-best-practices): 2016-07-29 <br/> A collection of best practices for writing web apps in Go
 - [mrekucci/epi](https://github.com/mrekucci/epi): 2016-07-23 <br/> Solutions for Elements of Programming Interviews problems written in Golang (work-in-progress)
+- [imdario/mergo](https://github.com/imdario/mergo): 2016-05-17 <br/> Mergo: merging Go structs and maps since 2013
 - [svett/golang-design-patterns](https://github.com/svett/golang-design-patterns): 2016-05-15 <br/> A Gang of Gophers (originally Gang of Four) design patterns written in Golang
 - [udhos/golang-concurrency-tricks](https://github.com/udhos/golang-concurrency-tricks): 2016-05-05 <br/> ---
 - [f2prateek/semaphore](https://github.com/f2prateek/semaphore): 2016-05-01 <br/> ---
@@ -175,6 +179,7 @@ The main purpose is reading / learning / teaching.
 - [clarkduvall/hyperloglog](https://github.com/clarkduvall/hyperloglog): 0.26 MB<br/>  (0.13 MB git / 0.14 MB code)
 - [moul/euler](https://github.com/moul/euler): 0.25 MB<br/>  (0.13 MB git / 0.11 MB code)
 - [dgryski/go-frugal](https://github.com/dgryski/go-frugal): 0.22 MB<br/>  (0.11 MB git / 0.11 MB code)
+- [alexandergrom/go-patterns](https://github.com/alexandergrom/go-patterns): 0.22 MB<br/>  (0.10 MB git / 0.12 MB code)
 - [alioygur/is](https://github.com/alioygur/is): 0.22 MB<br/>  (0.14 MB git / 0.08 MB code)
 - [djherbis/buffer](https://github.com/djherbis/buffer): 0.21 MB<br/>  (0.16 MB git / 0.05 MB code)
 - [glycerine/offheap](https://github.com/glycerine/offheap): 0.20 MB<br/>  (0.10 MB git / 0.10 MB code)
@@ -189,6 +194,7 @@ The main purpose is reading / learning / teaching.
 - [mattkanwisher/microservices-book-code](https://github.com/mattkanwisher/microservices-book-code): 0.13 MB<br/>  (0.06 MB git / 0.07 MB code)
 - [thejerf/suture](https://github.com/thejerf/suture): 0.13 MB<br/>  (0.09 MB git / 0.04 MB code)
 - [svett/golang-design-patterns](https://github.com/svett/golang-design-patterns): 0.12 MB<br/>  (0.06 MB git / 0.06 MB code)
+- [imdario/mergo](https://github.com/imdario/mergo): 0.11 MB<br/>  (0.08 MB git / 0.03 MB code)
 - [abcum/ptree](https://github.com/abcum/ptree): 0.11 MB<br/>  (0.05 MB git / 0.05 MB code)
 - [monochromegane/go_design_pattern](https://github.com/monochromegane/go_design_pattern): 0.11 MB<br/>  (0.06 MB git / 0.04 MB code)
 - [mitghi/buffpool](https://github.com/mitghi/buffpool): 0.10 MB<br/>  (0.08 MB git / 0.02 MB code)
