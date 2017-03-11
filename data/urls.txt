@@ -41,6 +41,7 @@ https://github.com/orcaman/concurrent-map
 https://github.com/peterbourgon/go-training
 https://github.com/picadoh/gostreamer
 https://github.com/pierrec/xxhash
+https://github.com/puerkitobio/gocostmodel
 https://github.com/rakyll/coop
 https://github.com/rubyist/circuitbreaker
 https://github.com/serialx/hashring

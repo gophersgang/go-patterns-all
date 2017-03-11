@@ -65,6 +65,7 @@ The main purpose is reading / learning / teaching.
 - [peterbourgon/go-training](https://github.com/peterbourgon/go-training) - Exercises <br/> ( 2016-02-26 / 6 commits / 0 stars )
 - [picadoh/gostreamer](https://github.com/picadoh/gostreamer) - Go example that uses channels to build an execution pipeline <br/> ( 2016-10-05 / 29 commits / 3 stars )
 - [pierrec/xxhash](https://github.com/pierrec/xxhash) - Pure Go implementation of xxHash (32 and 64 bits versions) <br/> ( 2016-01-12 / 12 commits / 4 stars )
+- [puerkitobio/gocostmodel](https://github.com/puerkitobio/gocostmodel) - Benchmarks of common basic operations for the Go language. <br/> ( 2015-01-04 / 26 commits / 2 stars )
 - [rakyll/coop](https://github.com/rakyll/coop) - Cheat sheet for some of the common concurrent flows in Go <br/> ( 2015-10-06 / 20 commits / 46 stars )
 - [rubyist/circuitbreaker](https://github.com/rubyist/circuitbreaker) - Circuit Breakers in Go <br/> ( 2016-11-16 / 109 commits / 33 stars )
 - [serialx/hashring](https://github.com/serialx/hashring) - Consistent hashing "hashring" implementation in golang (using the same algorithm as libketama) <br/> ( 2017-02-22 / 26 commits / 24 stars )
@@ -147,6 +148,7 @@ The main purpose is reading / learning / teaching.
 - [monochromegane/go_design_pattern](https://github.com/monochromegane/go_design_pattern): 2015-07-09 <br/> Design patterns in Golang.
 - [efischer19/golang_ctci](https://github.com/efischer19/golang_ctci): 2015-06-12 <br/> Working my way through cracking the coding interview in Go, because I want to learn it
 - [gophergala/go-algos](https://github.com/gophergala/go-algos): 2015-01-26 <br/> ---
+- [puerkitobio/gocostmodel](https://github.com/puerkitobio/gocostmodel): 2015-01-04 <br/> Benchmarks of common basic operations for the Go language.
 - [dgryski/go-frugal](https://github.com/dgryski/go-frugal): 2014-07-07 <br/> Frugal Streaming Quantiles
 - [yksz/go-design-patterns](https://github.com/yksz/go-design-patterns): 2014-06-07 <br/> Design patterns implemented with Golang
 - [go-pipe/pipe](https://github.com/go-pipe/pipe): 2014-04-14 <br/> Package pipe implements unix-like pipelines for Go.
@@ -161,6 +163,7 @@ The main purpose is reading / learning / teaching.
 - [vladimirvivien/learning-go](https://github.com/vladimirvivien/learning-go): 1.69 MB<br/>  (0.50 MB git / 1.19 MB code)
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns): 1.09 MB<br/>  (0.93 MB git / 0.15 MB code)
 - [emirpasic/gods](https://github.com/emirpasic/gods): 1.00 MB<br/>  (0.56 MB git / 0.44 MB code)
+- [puerkitobio/gocostmodel](https://github.com/puerkitobio/gocostmodel): 0.89 MB<br/>  (0.24 MB git / 0.65 MB code)
 - [timtadh/fs2](https://github.com/timtadh/fs2): 0.67 MB<br/>  (0.36 MB git / 0.30 MB code)
 - [mrekucci/epi](https://github.com/mrekucci/epi): 0.61 MB<br/>  (0.33 MB git / 0.27 MB code)
 - [gophergala/go-algos](https://github.com/gophergala/go-algos): 0.43 MB<br/>  (0.16 MB git / 0.27 MB code)
