@@ -3,6 +3,7 @@ https://github.com/abcum/lcp
 https://github.com/abcum/ptree
 https://github.com/abcum/tlist
 https://github.com/abcum/vtree
+https://github.com/alexandergrom/go-patterns
 https://github.com/alioygur/is
 https://github.com/arnauddri/algorithms
 https://github.com/clarkduvall/hyperloglog
@@ -23,6 +24,7 @@ https://github.com/go-pipe/pipe
 https://github.com/golang/sync
 https://github.com/gophergala/go-algos
 https://github.com/gophersgang/golang-patterns-collection
+https://github.com/imdario/mergo
 https://github.com/jbuberel/go-patterns
 https://github.com/joernweissenborn/eventual2go
 https://github.com/joeshaw/cuckoofilter
