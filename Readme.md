@@ -28,6 +28,7 @@ The main purpose is reading / learning / teaching.
 - [abcum/tlist](https://github.com/abcum/tlist) - A time series list implementation for Go <br/> ( 2017-02-10 / 36 commits / 0 stars )
 - [abcum/vtree](https://github.com/abcum/vtree) - A versioned radix tree library implementation for Go <br/> ( 2017-02-11 / 13 commits / 0 stars )
 - [alioygur/is](https://github.com/alioygur/is) - Micro check library in Golang. <br/> ( 2017-02-13 / 24 commits / 6 stars )
+- [arnauddri/algorithms](https://github.com/arnauddri/algorithms) - Algorithms & Data Structures in Go <br/> ( 2015-02-02 / 134 commits / 130 stars )
 - [clarkduvall/hyperloglog](https://github.com/clarkduvall/hyperloglog) - HyperLogLog and HyperLogLog++ implementation in Go/Golang. <br/> ( 2016-12-12 / 34 commits / 28 stars )
 - [davecheney/high-performance-go-workshop](https://github.com/davecheney/high-performance-go-workshop) - --- <br/> ( 2016-12-25 / 51 commits / 27 stars )
 - [deckarep/golang-set](https://github.com/deckarep/golang-set) - A simple set type for the Go language. <br/> ( 2017-02-02 / 98 commits / 62 stars )
@@ -37,7 +38,7 @@ The main purpose is reading / learning / teaching.
 - [eapache/go-resiliency](https://github.com/eapache/go-resiliency) - Resiliency patterns for golang <br/> ( 2016-01-04 / 44 commits / 31 stars )
 - [efischer19/golang_ctci](https://github.com/efischer19/golang_ctci) - Working my way through cracking the coding interview in Go, because I want to learn it <br/> ( 2015-06-12 / 43 commits / 0 stars )
 - [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON <br/> ( 2017-03-06 / 262 commits / 201 stars )
-- [exercism/xgo](https://github.com/exercism/xgo) - Exercism Exercises in Go <br/> ( 2017-03-10 / 967 commits / 92 stars )
+- [exercism/xgo](https://github.com/exercism/xgo) - Exercism Exercises in Go <br/> ( 2017-03-11 / 969 commits / 92 stars )
 - [f2prateek/semaphore](https://github.com/f2prateek/semaphore) - --- <br/> ( 2016-05-01 / 6 commits / 0 stars )
 - [feyeleanor/gospeed](https://github.com/feyeleanor/gospeed) - Go micro-benchmarks for calculating the speed of language constructs <br/> ( 2016-01-27 / 26 commits / 4 stars )
 - [ghthor/iprep](https://github.com/ghthor/iprep) - Interview prep question solutions <br/> ( 2016-08-26 / 22 commits / 0 stars )
@@ -50,7 +51,7 @@ The main purpose is reading / learning / teaching.
 - [joernweissenborn/eventual2go](https://github.com/joernweissenborn/eventual2go) - Streams and Futures for Go. <br/> ( 2017-03-08 / 69 commits / 0 stars )
 - [joeshaw/cuckoofilter](https://github.com/joeshaw/cuckoofilter) - An implementation of Cuckoo Filters in Go <br/> ( 2016-08-01 / 4 commits / 2 stars )
 - [jpillora/backoff](https://github.com/jpillora/backoff) - Simple backoff algorithm in Go (golang) <br/> ( 2017-02-22 / 23 commits / 17 stars )
-- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Design Patterns for Humans™ - An ultra-simplified explanation <br/> ( 2017-03-06 / 98 commits / 914 stars )
+- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Design Patterns for Humans™ - An ultra-simplified explanation <br/> ( 2017-03-06 / 98 commits / 915 stars )
 - [lnsp/gohash](https://github.com/lnsp/gohash) - Fast and easy tool to generate file hashes. <br/> ( 2016-08-19 / 6 commits / 0 stars )
 - [logpacker/go-questions](https://github.com/logpacker/go-questions) - Questions to estimate your Go level <br/> ( 2017-02-14 / 25 commits / 2 stars )
 - [mattkanwisher/microservices-book-code](https://github.com/mattkanwisher/microservices-book-code) - Source code to the book Microservices in GO www.microservicesingo.com <br/> ( 2015-08-14 / 2 commits / 8 stars )
@@ -89,7 +90,7 @@ The main purpose is reading / learning / teaching.
 
 ### By Activity
 <!-- ACTIVITY_LIST -->
-- [exercism/xgo](https://github.com/exercism/xgo): 2017-03-10 <br/> Exercism Exercises in Go
+- [exercism/xgo](https://github.com/exercism/xgo): 2017-03-11 <br/> Exercism Exercises in Go
 - [joernweissenborn/eventual2go](https://github.com/joernweissenborn/eventual2go): 2017-03-08 <br/> Streams and Futures for Go.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns): 2017-03-08 <br/> Curated list of Go design patterns, recipes and idioms
 - [mitghi/buffpool](https://github.com/mitghi/buffpool): 2017-03-06 <br/> Recycling pool with lock-free contexts
@@ -147,6 +148,7 @@ The main purpose is reading / learning / teaching.
 - [mattkanwisher/microservices-book-code](https://github.com/mattkanwisher/microservices-book-code): 2015-08-14 <br/> Source code to the book Microservices in GO www.microservicesingo.com
 - [monochromegane/go_design_pattern](https://github.com/monochromegane/go_design_pattern): 2015-07-09 <br/> Design patterns in Golang.
 - [efischer19/golang_ctci](https://github.com/efischer19/golang_ctci): 2015-06-12 <br/> Working my way through cracking the coding interview in Go, because I want to learn it
+- [arnauddri/algorithms](https://github.com/arnauddri/algorithms): 2015-02-02 <br/> Algorithms & Data Structures in Go
 - [gophergala/go-algos](https://github.com/gophergala/go-algos): 2015-01-26 <br/> ---
 - [puerkitobio/gocostmodel](https://github.com/puerkitobio/gocostmodel): 2015-01-04 <br/> Benchmarks of common basic operations for the Go language.
 - [dgryski/go-frugal](https://github.com/dgryski/go-frugal): 2014-07-07 <br/> Frugal Streaming Quantiles
@@ -159,7 +161,8 @@ The main purpose is reading / learning / teaching.
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample): 13.52 MB<br/>  (5.79 MB git / 7.73 MB code)
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures): 9.21 MB<br/>  (8.43 MB git / 0.78 MB code)
 - [davecheney/high-performance-go-workshop](https://github.com/davecheney/high-performance-go-workshop): 9.13 MB<br/>  (3.86 MB git / 5.26 MB code)
-- [exercism/xgo](https://github.com/exercism/xgo): 2.57 MB<br/>  (1.93 MB git / 0.64 MB code)
+- [exercism/xgo](https://github.com/exercism/xgo): 2.58 MB<br/>  (1.94 MB git / 0.64 MB code)
+- [arnauddri/algorithms](https://github.com/arnauddri/algorithms): 1.88 MB<br/>  (1.19 MB git / 0.69 MB code)
 - [vladimirvivien/learning-go](https://github.com/vladimirvivien/learning-go): 1.69 MB<br/>  (0.50 MB git / 1.19 MB code)
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns): 1.09 MB<br/>  (0.93 MB git / 0.15 MB code)
 - [emirpasic/gods](https://github.com/emirpasic/gods): 1.00 MB<br/>  (0.56 MB git / 0.44 MB code)
