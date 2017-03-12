@@ -238,3 +238,8 @@ The main purpose is reading / learning / teaching.
 - [f2prateek/semaphore](https://github.com/f2prateek/semaphore): 0.02 MB<br/>  (0.02 MB git / 0.00 MB code)
 - [gophersgang/golang-patterns-collection](https://github.com/gophersgang/golang-patterns-collection): 0.02 MB<br/>  (0.02 MB git / 0.00 MB code)
 <!-- /SIZE_LIST -->
+
+
+
+### Links
+  - [Golang Essentials - big list!](https://gist.github.com/Integralist/53f6dc643fd0227c6606)
