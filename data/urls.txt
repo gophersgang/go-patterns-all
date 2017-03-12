@@ -1,3 +1,4 @@
+https://github.com/aandryashin/init
 https://github.com/abcum/cachr
 https://github.com/abcum/lcp
 https://github.com/abcum/ptree
@@ -8,6 +9,7 @@ https://github.com/alexandergrom/go-patterns
 https://github.com/alioygur/is
 https://github.com/arnauddri/algorithms
 https://github.com/clarkduvall/hyperloglog
+https://github.com/codingsince1985/uva
 https://github.com/davecheney/high-performance-go-workshop
 https://github.com/deckarep/golang-set
 https://github.com/dgryski/go-frugal
