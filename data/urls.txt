@@ -23,6 +23,8 @@ https://github.com/exercism/xgo
 https://github.com/f2prateek/semaphore
 https://github.com/feyeleanor/gospeed
 https://github.com/ghthor/iprep
+https://github.com/glycerine/bchan
+https://github.com/glycerine/idem
 https://github.com/glycerine/offheap
 https://github.com/go-pipe/pipe
 https://github.com/golang/sync
