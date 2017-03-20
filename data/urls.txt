@@ -46,6 +46,7 @@ https://github.com/moul/euler
 https://github.com/mrekucci/epi
 https://github.com/nanxiao/golang-101-hacks
 https://github.com/nieksand/sortgenerics
+https://github.com/nytlabs/gojsonexplode
 https://github.com/orcaman/concurrent-map
 https://github.com/peterbourgon/go-training
 https://github.com/picadoh/gostreamer
