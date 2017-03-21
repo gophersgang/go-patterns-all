@@ -34,6 +34,7 @@ The main purpose is reading / learning / teaching.
 - [arnauddri/algorithms](https://github.com/arnauddri/algorithms) - Algorithms & Data Structures in Go <br/> ( 2015-02-02 / 134 commits / 133 stars )
 - [bsm/histogram](https://github.com/bsm/histogram) - Streamining histograms in Go <br/> ( 2017-02-20 / 4 commits / 0 stars )
 - [clarkduvall/hyperloglog](https://github.com/clarkduvall/hyperloglog) - HyperLogLog and HyperLogLog++ implementation in Go/Golang. <br/> ( 2016-12-12 / 34 commits / 28 stars )
+- [code-hex/retrygroup](https://github.com/code-hex/retrygroup) - Package retrygroup provides synchronization, Context cancelation for groups of retry goroutines working on subtasks of a common task. <br/> ( 2017-02-20 / 3 commits / 1 stars )
 - [codingsince1985/uva](https://github.com/codingsince1985/uva) - UVa Online Judge solutions in Go <br/> ( 2017-03-20 / 576 commits / 9 stars )
 - [davecheney/high-performance-go-workshop](https://github.com/davecheney/high-performance-go-workshop) - --- <br/> ( 2016-12-25 / 51 commits / 27 stars )
 - [deckarep/golang-set](https://github.com/deckarep/golang-set) - A simple set type for the Go language. <br/> ( 2017-02-02 / 98 commits / 64 stars )
@@ -60,7 +61,7 @@ The main purpose is reading / learning / teaching.
 - [joeshaw/cuckoofilter](https://github.com/joeshaw/cuckoofilter) - An implementation of Cuckoo Filters in Go <br/> ( 2016-08-01 / 4 commits / 2 stars )
 - [jpillora/backoff](https://github.com/jpillora/backoff) - Simple backoff algorithm in Go (golang) <br/> ( 2017-02-22 / 23 commits / 17 stars )
 - [kai101/programming-reference-quiz](https://github.com/kai101/programming-reference-quiz) - A collection of various programming reference  and quiz question and solution in various language. <br/> ( 2017-03-19 / 19 commits / 0 stars )
-- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Design Patterns for Humans™ - An ultra-simplified explanation <br/> ( 2017-03-20 / 102 commits / 991 stars )
+- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Design Patterns for Humans™ - An ultra-simplified explanation <br/> ( 2017-03-20 / 102 commits / 990 stars )
 - [lnsp/gohash](https://github.com/lnsp/gohash) - Fast and easy tool to generate file hashes. <br/> ( 2016-08-19 / 6 commits / 0 stars )
 - [logpacker/go-questions](https://github.com/logpacker/go-questions) - Questions to estimate your Go level <br/> ( 2017-02-14 / 25 commits / 2 stars )
 - [mattkanwisher/microservices-book-code](https://github.com/mattkanwisher/microservices-book-code) - Source code to the book Microservices in GO www.microservicesingo.com <br/> ( 2015-08-14 / 2 commits / 8 stars )
@@ -126,6 +127,7 @@ The main purpose is reading / learning / teaching.
 - [sentimensrg/sigctx](https://github.com/sentimensrg/sigctx): 2017-02-24 <br/> Go contexts for graceful shutdown
 - [serialx/hashring](https://github.com/serialx/hashring): 2017-02-22 <br/> Consistent hashing "hashring" implementation in golang (using the same algorithm as libketama)
 - [jpillora/backoff](https://github.com/jpillora/backoff): 2017-02-22 <br/> Simple backoff algorithm in Go (golang)
+- [code-hex/retrygroup](https://github.com/code-hex/retrygroup): 2017-02-20 <br/> Package retrygroup provides synchronization, Context cancelation for groups of retry goroutines working on subtasks of a common task.
 - [bsm/histogram](https://github.com/bsm/histogram): 2017-02-20 <br/> Streamining histograms in Go
 - [ungerik/go-dry](https://github.com/ungerik/go-dry): 2017-02-15 <br/> DRY (don't repeat yourself) package for Go
 - [logpacker/go-questions](https://github.com/logpacker/go-questions): 2017-02-14 <br/> Questions to estimate your Go level
@@ -252,6 +254,7 @@ The main purpose is reading / learning / teaching.
 - [joeshaw/cuckoofilter](https://github.com/joeshaw/cuckoofilter): 0.03 MB<br/>  (0.02 MB git / 0.01 MB code)
 - [lnsp/gohash](https://github.com/lnsp/gohash): 0.03 MB<br/>  (0.02 MB git / 0.01 MB code)
 - [glycerine/idem](https://github.com/glycerine/idem): 0.03 MB<br/>  (0.02 MB git / 0.00 MB code)
+- [code-hex/retrygroup](https://github.com/code-hex/retrygroup): 0.02 MB<br/>  (0.02 MB git / 0.00 MB code)
 - [f2prateek/semaphore](https://github.com/f2prateek/semaphore): 0.02 MB<br/>  (0.02 MB git / 0.00 MB code)
 - [sentimensrg/sigctx](https://github.com/sentimensrg/sigctx): 0.02 MB<br/>  (0.02 MB git / 0.00 MB code)
 - [gophersgang/golang-patterns-collection](https://github.com/gophersgang/golang-patterns-collection): 0.02 MB<br/>  (0.02 MB git / 0.00 MB code)

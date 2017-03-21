@@ -10,6 +10,7 @@ https://github.com/alioygur/is
 https://github.com/arnauddri/algorithms
 https://github.com/bsm/histogram
 https://github.com/clarkduvall/hyperloglog
+https://github.com/code-hex/retrygroup
 https://github.com/codingsince1985/uva
 https://github.com/davecheney/high-performance-go-workshop
 https://github.com/deckarep/golang-set
