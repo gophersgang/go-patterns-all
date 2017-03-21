@@ -82,6 +82,7 @@ The main purpose is reading / learning / teaching.
 - [rubyist/circuitbreaker](https://github.com/rubyist/circuitbreaker) - Circuit Breakers in Go <br/> ( 2016-11-16 / 109 commits / 33 stars )
 - [sentimensrg/sigctx](https://github.com/sentimensrg/sigctx) - Go contexts for graceful shutdown <br/> ( 2017-02-24 / 2 commits / 1 stars )
 - [serialx/hashring](https://github.com/serialx/hashring) - Consistent hashing "hashring" implementation in golang (using the same algorithm as libketama) <br/> ( 2017-02-22 / 26 commits / 25 stars )
+- [spatially/go-workgroup](https://github.com/spatially/go-workgroup) - wraps sync.WaitGroup <br/> ( 2015-10-01 / 16 commits / 3 stars )
 - [stefanschroeder/golang-regex-tutorial](https://github.com/stefanschroeder/golang-regex-tutorial) - Golang - Regular Expression Tutorial <br/> ( 2016-11-27 / 89 commits / 70 stars )
 - [streadway/quantile](https://github.com/streadway/quantile) - Space efficient streaming quantile estimator <br/> ( 2015-09-17 / 26 commits / 3 stars )
 - [svett/golang-design-patterns](https://github.com/svett/golang-design-patterns) - A Gang of Gophers (originally Gang of Four) design patterns written in Golang <br/> ( 2016-05-15 / 22 commits / 5 stars )
@@ -168,6 +169,7 @@ The main purpose is reading / learning / teaching.
 - [eapache/go-resiliency](https://github.com/eapache/go-resiliency): 2016-01-04 <br/> Resiliency patterns for golang
 - [tsenart/tb](https://github.com/tsenart/tb): 2015-12-08 <br/> A generic lock-free implementation of the "Token-Bucket" algorithm
 - [rakyll/coop](https://github.com/rakyll/coop): 2015-10-06 <br/> Cheat sheet for some of the common concurrent flows in Go
+- [spatially/go-workgroup](https://github.com/spatially/go-workgroup): 2015-10-01 <br/> wraps sync.WaitGroup
 - [streadway/quantile](https://github.com/streadway/quantile): 2015-09-17 <br/> Space efficient streaming quantile estimator
 - [mattkanwisher/microservices-book-code](https://github.com/mattkanwisher/microservices-book-code): 2015-08-14 <br/> Source code to the book Microservices in GO www.microservicesingo.com
 - [monochromegane/go_design_pattern](https://github.com/monochromegane/go_design_pattern): 2015-07-09 <br/> Design patterns in Golang.
@@ -192,6 +194,7 @@ The main purpose is reading / learning / teaching.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns): 1.09 MB<br/>  (0.93 MB git / 0.15 MB code)
 - [emirpasic/gods](https://github.com/emirpasic/gods): 1.00 MB<br/>  (0.56 MB git / 0.44 MB code)
 - [puerkitobio/gocostmodel](https://github.com/puerkitobio/gocostmodel): 0.89 MB<br/>  (0.24 MB git / 0.65 MB code)
+- [spatially/go-workgroup](https://github.com/spatially/go-workgroup): 0.72 MB<br/>  (0.69 MB git / 0.03 MB code)
 - [timtadh/fs2](https://github.com/timtadh/fs2): 0.67 MB<br/>  (0.36 MB git / 0.30 MB code)
 - [mrekucci/epi](https://github.com/mrekucci/epi): 0.61 MB<br/>  (0.33 MB git / 0.27 MB code)
 - [gophergala/go-algos](https://github.com/gophergala/go-algos): 0.43 MB<br/>  (0.16 MB git / 0.27 MB code)
