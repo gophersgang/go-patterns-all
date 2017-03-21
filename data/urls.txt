@@ -58,6 +58,7 @@ https://github.com/rakyll/coop
 https://github.com/rubyist/circuitbreaker
 https://github.com/sentimensrg/sigctx
 https://github.com/serialx/hashring
+https://github.com/spatially/go-workgroup
 https://github.com/stefanschroeder/golang-regex-tutorial
 https://github.com/streadway/quantile
 https://github.com/svett/golang-design-patterns
