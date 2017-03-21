@@ -35,6 +35,7 @@ https://github.com/jbuberel/go-patterns
 https://github.com/joernweissenborn/eventual2go
 https://github.com/joeshaw/cuckoofilter
 https://github.com/jpillora/backoff
+https://github.com/kai101/programming-reference-quiz
 https://github.com/kamranahmedse/design-patterns-for-humans
 https://github.com/lnsp/gohash
 https://github.com/logpacker/go-questions
