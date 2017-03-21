@@ -54,6 +54,7 @@ https://github.com/pierrec/xxhash
 https://github.com/puerkitobio/gocostmodel
 https://github.com/rakyll/coop
 https://github.com/rubyist/circuitbreaker
+https://github.com/sentimensrg/sigctx
 https://github.com/serialx/hashring
 https://github.com/stefanschroeder/golang-regex-tutorial
 https://github.com/streadway/quantile
