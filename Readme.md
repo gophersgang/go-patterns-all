@@ -59,6 +59,7 @@ The main purpose is reading / learning / teaching.
 - [joernweissenborn/eventual2go](https://github.com/joernweissenborn/eventual2go) - Streams and Futures for Go. <br/> ( 2017-03-14 / 73 commits / 0 stars )
 - [joeshaw/cuckoofilter](https://github.com/joeshaw/cuckoofilter) - An implementation of Cuckoo Filters in Go <br/> ( 2016-08-01 / 4 commits / 2 stars )
 - [jpillora/backoff](https://github.com/jpillora/backoff) - Simple backoff algorithm in Go (golang) <br/> ( 2017-02-22 / 23 commits / 17 stars )
+- [kai101/programming-reference-quiz](https://github.com/kai101/programming-reference-quiz) - A collection of various programming reference  and quiz question and solution in various language. <br/> ( 2017-03-19 / 19 commits / 0 stars )
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Design Patterns for Humans™ - An ultra-simplified explanation <br/> ( 2017-03-20 / 102 commits / 991 stars )
 - [lnsp/gohash](https://github.com/lnsp/gohash) - Fast and easy tool to generate file hashes. <br/> ( 2016-08-19 / 6 commits / 0 stars )
 - [logpacker/go-questions](https://github.com/logpacker/go-questions) - Questions to estimate your Go level <br/> ( 2017-02-14 / 25 commits / 2 stars )
@@ -107,6 +108,7 @@ The main purpose is reading / learning / teaching.
 - [abcum/cachr](https://github.com/abcum/cachr): 2017-03-20 <br/> A library of in-memory caching algorithms for Go
 - [codingsince1985/uva](https://github.com/codingsince1985/uva): 2017-03-20 <br/> UVa Online Judge solutions in Go
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans): 2017-03-20 <br/> Design Patterns for Humans™ - An ultra-simplified explanation
+- [kai101/programming-reference-quiz](https://github.com/kai101/programming-reference-quiz): 2017-03-19 <br/> A collection of various programming reference  and quiz question and solution in various language.
 - [golang/sync](https://github.com/golang/sync): 2017-03-17 <br/> [mirror] concurrency primitives
 - [exercism/xgo](https://github.com/exercism/xgo): 2017-03-17 <br/> Exercism Exercises in Go
 - [orcaman/concurrent-map](https://github.com/orcaman/concurrent-map): 2017-03-16 <br/> a thread-safe concurrent map for go
@@ -240,6 +242,7 @@ The main purpose is reading / learning / teaching.
 - [udhos/golang-concurrency-tricks](https://github.com/udhos/golang-concurrency-tricks): 0.06 MB<br/>  (0.06 MB git / 0.00 MB code)
 - [xlab/closer](https://github.com/xlab/closer): 0.06 MB<br/>  (0.04 MB git / 0.01 MB code)
 - [jpillora/backoff](https://github.com/jpillora/backoff): 0.05 MB<br/>  (0.05 MB git / 0.01 MB code)
+- [kai101/programming-reference-quiz](https://github.com/kai101/programming-reference-quiz): 0.05 MB<br/>  (0.04 MB git / 0.01 MB code)
 - [nytlabs/gojsonexplode](https://github.com/nytlabs/gojsonexplode): 0.05 MB<br/>  (0.04 MB git / 0.02 MB code)
 - [abcum/lcp](https://github.com/abcum/lcp): 0.05 MB<br/>  (0.03 MB git / 0.02 MB code)
 - [ghthor/iprep](https://github.com/ghthor/iprep): 0.04 MB<br/>  (0.04 MB git / 0.01 MB code)
