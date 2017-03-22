@@ -35,7 +35,7 @@ The main purpose is reading / learning / teaching.
 - [bsm/histogram](https://github.com/bsm/histogram) - Streamining histograms in Go <br/> ( 2017-02-20 / 4 commits / 0 stars )
 - [clarkduvall/hyperloglog](https://github.com/clarkduvall/hyperloglog) - HyperLogLog and HyperLogLog++ implementation in Go/Golang. <br/> ( 2016-12-12 / 34 commits / 28 stars )
 - [code-hex/retrygroup](https://github.com/code-hex/retrygroup) - Package retrygroup provides synchronization, Context cancelation for groups of retry goroutines working on subtasks of a common task. <br/> ( 2017-02-20 / 3 commits / 1 stars )
-- [codingsince1985/uva](https://github.com/codingsince1985/uva) - UVa Online Judge solutions in Go <br/> ( 2017-03-20 / 576 commits / 9 stars )
+- [codingsince1985/uva](https://github.com/codingsince1985/uva) - UVa Online Judge solutions in Go <br/> ( 2017-03-22 / 578 commits / 9 stars )
 - [davecheney/high-performance-go-workshop](https://github.com/davecheney/high-performance-go-workshop) - --- <br/> ( 2016-12-25 / 51 commits / 27 stars )
 - [deckarep/golang-set](https://github.com/deckarep/golang-set) - A simple set type for the Go language. <br/> ( 2017-02-02 / 98 commits / 64 stars )
 - [dgryski/go-frugal](https://github.com/dgryski/go-frugal) - Frugal Streaming Quantiles <br/> ( 2014-07-07 / 11 commits / 1 stars )
@@ -43,7 +43,7 @@ The main purpose is reading / learning / teaching.
 - [djherbis/buffer](https://github.com/djherbis/buffer) - Composable Buffers for Go #golang <br/> ( 2017-03-14 / 198 commits / 18 stars )
 - [eapache/go-resiliency](https://github.com/eapache/go-resiliency) - Resiliency patterns for golang <br/> ( 2016-01-04 / 44 commits / 31 stars )
 - [efischer19/golang_ctci](https://github.com/efischer19/golang_ctci) - Working my way through cracking the coding interview in Go, because I want to learn it <br/> ( 2015-06-12 / 43 commits / 0 stars )
-- [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON <br/> ( 2017-03-06 / 262 commits / 204 stars )
+- [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON <br/> ( 2017-03-06 / 262 commits / 206 stars )
 - [exercism/xgo](https://github.com/exercism/xgo) - Exercism Exercises in Go <br/> ( 2017-03-17 / 988 commits / 93 stars )
 - [f2prateek/semaphore](https://github.com/f2prateek/semaphore) - --- <br/> ( 2016-05-01 / 6 commits / 0 stars )
 - [feyeleanor/gospeed](https://github.com/feyeleanor/gospeed) - Go micro-benchmarks for calculating the speed of language constructs <br/> ( 2016-01-27 / 26 commits / 4 stars )
@@ -55,19 +55,20 @@ The main purpose is reading / learning / teaching.
 - [golang/sync](https://github.com/golang/sync) - [mirror] concurrency primitives <br/> ( 2017-03-17 / 13 commits / 8 stars )
 - [gophergala/go-algos](https://github.com/gophergala/go-algos) - --- <br/> ( 2015-01-26 / 42 commits / 8 stars )
 - [gophersgang/golang-patterns-collection](https://github.com/gophersgang/golang-patterns-collection) - clone of http://www.golangpatterns.info/concurrency/coroutines <br/> ( 2017-03-06 / 2 commits / 0 stars )
+- [gophersgang/ways-to-do-things](https://github.com/gophersgang/ways-to-do-things) - different ways to model actors in Golang <br/> ( 2017-03-22 / 4 commits / 0 stars )
 - [imdario/mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013 <br/> ( 2016-05-17 / 70 commits / 53 stars )
 - [jbuberel/go-patterns](https://github.com/jbuberel/go-patterns) - --- <br/> ( 2016-04-27 / 19 commits / 31 stars )
 - [joernweissenborn/eventual2go](https://github.com/joernweissenborn/eventual2go) - Streams and Futures for Go. <br/> ( 2017-03-14 / 73 commits / 0 stars )
 - [joeshaw/cuckoofilter](https://github.com/joeshaw/cuckoofilter) - An implementation of Cuckoo Filters in Go <br/> ( 2016-08-01 / 4 commits / 2 stars )
 - [jpillora/backoff](https://github.com/jpillora/backoff) - Simple backoff algorithm in Go (golang) <br/> ( 2017-02-22 / 23 commits / 17 stars )
 - [kai101/programming-reference-quiz](https://github.com/kai101/programming-reference-quiz) - A collection of various programming reference  and quiz question and solution in various language. <br/> ( 2017-03-19 / 19 commits / 0 stars )
-- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Design Patterns for Humans™ - An ultra-simplified explanation <br/> ( 2017-03-20 / 102 commits / 990 stars )
+- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Design Patterns for Humans™ - An ultra-simplified explanation <br/> ( 2017-03-21 / 103 commits / 1,006 stars )
 - [lnsp/gohash](https://github.com/lnsp/gohash) - Fast and easy tool to generate file hashes. <br/> ( 2016-08-19 / 6 commits / 0 stars )
 - [logpacker/go-questions](https://github.com/logpacker/go-questions) - Questions to estimate your Go level <br/> ( 2017-02-14 / 25 commits / 2 stars )
 - [mattkanwisher/microservices-book-code](https://github.com/mattkanwisher/microservices-book-code) - Source code to the book Microservices in GO www.microservicesingo.com <br/> ( 2015-08-14 / 2 commits / 8 stars )
 - [mitghi/buffpool](https://github.com/mitghi/buffpool) - Recycling pool with lock-free contexts <br/> ( 2017-03-06 / 11 commits / 0 stars )
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example <br/> ( 2016-12-27 / 807 commits / 395 stars )
-- [monochromegane/go_design_pattern](https://github.com/monochromegane/go_design_pattern) - Design patterns in Golang. <br/> ( 2015-07-09 / 36 commits / 88 stars )
+- [monochromegane/go_design_pattern](https://github.com/monochromegane/go_design_pattern) - Design patterns in Golang. <br/> ( 2015-07-09 / 36 commits / 89 stars )
 - [moul/euler](https://github.com/moul/euler) - :game_die: Project Euler in Golang <br/> ( 2016-10-19 / 62 commits / 0 stars )
 - [mrekucci/epi](https://github.com/mrekucci/epi) - Solutions for Elements of Programming Interviews problems written in Golang (work-in-progress) <br/> ( 2016-07-23 / 285 commits / 11 stars )
 - [nanxiao/golang-101-hacks](https://github.com/nanxiao/golang-101-hacks) - A rudimentary Go tutorial. <br/> ( 2016-09-30 / 96 commits / 7 stars )
@@ -82,34 +83,35 @@ The main purpose is reading / learning / teaching.
 - [rubyist/circuitbreaker](https://github.com/rubyist/circuitbreaker) - Circuit Breakers in Go <br/> ( 2016-11-16 / 109 commits / 33 stars )
 - [sentimensrg/sigctx](https://github.com/sentimensrg/sigctx) - Go contexts for graceful shutdown <br/> ( 2017-02-24 / 2 commits / 1 stars )
 - [serialx/hashring](https://github.com/serialx/hashring) - Consistent hashing "hashring" implementation in golang (using the same algorithm as libketama) <br/> ( 2017-02-22 / 26 commits / 25 stars )
-- [spatially/go-workgroup](https://github.com/spatially/go-workgroup) - wraps sync.WaitGroup <br/> ( 2015-10-01 / 16 commits / 3 stars )
+- [spatially/go-workgroup](https://github.com/spatially/go-workgroup) - wraps sync.WaitGroup <br/> ( 2015-10-01 / 16 commits / 4 stars )
 - [stefanschroeder/golang-regex-tutorial](https://github.com/stefanschroeder/golang-regex-tutorial) - Golang - Regular Expression Tutorial <br/> ( 2016-11-27 / 89 commits / 70 stars )
 - [streadway/quantile](https://github.com/streadway/quantile) - Space efficient streaming quantile estimator <br/> ( 2015-09-17 / 26 commits / 3 stars )
 - [svett/golang-design-patterns](https://github.com/svett/golang-design-patterns) - A Gang of Gophers (originally Gang of Four) design patterns written in Golang <br/> ( 2016-05-15 / 22 commits / 5 stars )
 - [thejerf/suture](https://github.com/thejerf/suture) - Supervisor trees for Go. <br/> ( 2017-03-03 / 32 commits / 24 stars )
 - [timtadh/fs2](https://github.com/timtadh/fs2) - B+ Tree - List - File Structures 2 - Memory Mapped File Structures for Go <br/> ( 2016-08-04 / 193 commits / 11 stars )
 - [tjarratt/go-best-practices](https://github.com/tjarratt/go-best-practices) - A collection of best practices for writing web apps in Go <br/> ( 2016-07-29 / 16 commits / 3 stars )
-- [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms <br/> ( 2017-03-08 / 69 commits / 160 stars )
+- [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms <br/> ( 2017-03-08 / 69 commits / 159 stars )
 - [tsenart/tb](https://github.com/tsenart/tb) - A generic lock-free implementation of the "Token-Bucket" algorithm <br/> ( 2015-12-08 / 62 commits / 12 stars )
 - [twotwotwo/sorts](https://github.com/twotwotwo/sorts) - Parallel and radix sorting in Go <br/> ( 2016-08-14 / 43 commits / 4 stars )
 - [udhos/golang-concurrency-tricks](https://github.com/udhos/golang-concurrency-tricks) - --- <br/> ( 2016-05-05 / 4 commits / 0 stars )
 - [ungerik/go-dry](https://github.com/ungerik/go-dry) - DRY (don't repeat yourself) package for Go <br/> ( 2017-02-15 / 99 commits / 17 stars )
-- [vladimirvivien/go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples) - Calling Go Functions from Other Languages using C Shared Libraries <br/> ( 2017-03-13 / 12 commits / 3 stars )
+- [vladimirvivien/go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples) - Calling Go Functions from Other Languages using C Shared Libraries <br/> ( 2017-03-13 / 12 commits / 4 stars )
 - [vladimirvivien/learning-go](https://github.com/vladimirvivien/learning-go) - --- <br/> ( 2017-01-04 / 7 commits / 6 stars )
-- [workiva/go-datastructures](https://github.com/workiva/go-datastructures) - --- <br/> ( 2017-03-02 / 621 commits / 289 stars )
+- [workiva/go-datastructures](https://github.com/workiva/go-datastructures) - --- <br/> ( 2017-03-02 / 621 commits / 290 stars )
 - [xlab/closer](https://github.com/xlab/closer) - Package closer ensures a clean exit for your Go app. <br/> ( 2016-11-13 / 12 commits / 2 stars )
 - [yksz/go-design-patterns](https://github.com/yksz/go-design-patterns) - Design patterns implemented with Golang <br/> ( 2014-06-07 / 38 commits / 9 stars )
 <!-- /PROJECTS_LIST -->
 
 ### By Activity
 <!-- ACTIVITY_LIST -->
+- [gophersgang/ways-to-do-things](https://github.com/gophersgang/ways-to-do-things): 2017-03-22 <br/> different ways to model actors in Golang
+- [codingsince1985/uva](https://github.com/codingsince1985/uva): 2017-03-22 <br/> UVa Online Judge solutions in Go
+- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans): 2017-03-21 <br/> Design Patterns for Humans™ - An ultra-simplified explanation
 - [abcum/vtree](https://github.com/abcum/vtree): 2017-03-20 <br/> A versioned radix tree library implementation for Go
 - [abcum/tlist](https://github.com/abcum/tlist): 2017-03-20 <br/> A time series list implementation for Go
 - [abcum/ptree](https://github.com/abcum/ptree): 2017-03-20 <br/> A radix tree library implementation for Go
 - [abcum/lcp](https://github.com/abcum/lcp): 2017-03-20 <br/> A longest common prefix library implementation for Go
 - [abcum/cachr](https://github.com/abcum/cachr): 2017-03-20 <br/> A library of in-memory caching algorithms for Go
-- [codingsince1985/uva](https://github.com/codingsince1985/uva): 2017-03-20 <br/> UVa Online Judge solutions in Go
-- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans): 2017-03-20 <br/> Design Patterns for Humans™ - An ultra-simplified explanation
 - [kai101/programming-reference-quiz](https://github.com/kai101/programming-reference-quiz): 2017-03-19 <br/> A collection of various programming reference  and quiz question and solution in various language.
 - [golang/sync](https://github.com/golang/sync): 2017-03-17 <br/> [mirror] concurrency primitives
 - [exercism/xgo](https://github.com/exercism/xgo): 2017-03-17 <br/> Exercism Exercises in Go
@@ -187,7 +189,7 @@ The main purpose is reading / learning / teaching.
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample): 13.52 MB<br/>  (5.79 MB git / 7.73 MB code)
 - [Workiva/go-datastructures](https://github.com/Workiva/go-datastructures): 9.21 MB<br/>  (8.43 MB git / 0.78 MB code)
 - [davecheney/high-performance-go-workshop](https://github.com/davecheney/high-performance-go-workshop): 9.13 MB<br/>  (3.86 MB git / 5.26 MB code)
-- [codingsince1985/uva](https://github.com/codingsince1985/uva): 3.75 MB<br/>  (1.85 MB git / 1.89 MB code)
+- [codingsince1985/uva](https://github.com/codingsince1985/uva): 3.80 MB<br/>  (1.90 MB git / 1.90 MB code)
 - [exercism/xgo](https://github.com/exercism/xgo): 2.66 MB<br/>  (2.02 MB git / 0.64 MB code)
 - [arnauddri/algorithms](https://github.com/arnauddri/algorithms): 1.88 MB<br/>  (1.19 MB git / 0.69 MB code)
 - [vladimirvivien/learning-go](https://github.com/vladimirvivien/learning-go): 1.69 MB<br/>  (0.50 MB git / 1.19 MB code)
@@ -198,9 +200,9 @@ The main purpose is reading / learning / teaching.
 - [timtadh/fs2](https://github.com/timtadh/fs2): 0.67 MB<br/>  (0.36 MB git / 0.30 MB code)
 - [mrekucci/epi](https://github.com/mrekucci/epi): 0.61 MB<br/>  (0.33 MB git / 0.27 MB code)
 - [gophergala/go-algos](https://github.com/gophergala/go-algos): 0.43 MB<br/>  (0.16 MB git / 0.27 MB code)
+- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans): 0.29 MB<br/>  (0.22 MB git / 0.06 MB code)
 - [deckarep/golang-set](https://github.com/deckarep/golang-set): 0.28 MB<br/>  (0.22 MB git / 0.06 MB code)
 - [NanXiao/golang-101-hacks](https://github.com/NanXiao/golang-101-hacks): 0.27 MB<br/>  (0.13 MB git / 0.14 MB code)
-- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans): 0.27 MB<br/>  (0.20 MB git / 0.06 MB code)
 - [clarkduvall/hyperloglog](https://github.com/clarkduvall/hyperloglog): 0.26 MB<br/>  (0.13 MB git / 0.14 MB code)
 - [alexandergrom/componenta](https://github.com/alexandergrom/componenta): 0.26 MB<br/>  (0.10 MB git / 0.16 MB code)
 - [moul/euler](https://github.com/moul/euler): 0.25 MB<br/>  (0.13 MB git / 0.11 MB code)
@@ -250,6 +252,7 @@ The main purpose is reading / learning / teaching.
 - [kai101/programming-reference-quiz](https://github.com/kai101/programming-reference-quiz): 0.05 MB<br/>  (0.04 MB git / 0.01 MB code)
 - [nytlabs/gojsonexplode](https://github.com/nytlabs/gojsonexplode): 0.05 MB<br/>  (0.04 MB git / 0.02 MB code)
 - [abcum/lcp](https://github.com/abcum/lcp): 0.05 MB<br/>  (0.03 MB git / 0.02 MB code)
+- [gophersgang/ways-to-do-things](https://github.com/gophersgang/ways-to-do-things): 0.05 MB<br/>  (0.03 MB git / 0.02 MB code)
 - [ghthor/iprep](https://github.com/ghthor/iprep): 0.04 MB<br/>  (0.04 MB git / 0.01 MB code)
 - [aandryashin/init](https://github.com/aandryashin/init): 0.04 MB<br/>  (0.03 MB git / 0.01 MB code)
 - [bsm/histogram](https://github.com/bsm/histogram): 0.04 MB<br/>  (0.03 MB git / 0.01 MB code)
