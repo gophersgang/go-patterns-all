@@ -27,6 +27,8 @@ https://github.com/ghthor/iprep
 https://github.com/glycerine/bchan
 https://github.com/glycerine/idem
 https://github.com/glycerine/offheap
+https://github.com/go-cmd/cmd
+https://github.com/go-cmd/run
 https://github.com/go-pipe/pipe
 https://github.com/golang/sync
 https://github.com/gophergala/go-algos
