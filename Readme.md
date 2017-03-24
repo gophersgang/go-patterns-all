@@ -51,6 +51,8 @@ The main purpose is reading / learning / teaching.
 - [glycerine/bchan](https://github.com/glycerine/bchan) - golang lib for broadcast channels <br/> ( 2017-02-10 / 8 commits / 0 stars )
 - [glycerine/idem](https://github.com/glycerine/idem) - idem.Halter: a pattern for halting goroutines in Go <br/> ( 2017-02-05 / 3 commits / 0 stars )
 - [glycerine/offheap](https://github.com/glycerine/offheap) - an off-heap hash-table in Go. Used to be called go-offheap-hashtable, but we shortened it. <br/> ( 2017-01-23 / 92 commits / 7 stars )
+- [go-cmd/cmd](https://github.com/go-cmd/cmd) - Async Go os/exec.Cmd with real-time output and status <br/> ( 2017-03-22 / 8 commits / 0 stars )
+- [go-cmd/run](https://github.com/go-cmd/run) - Strategies for running commands with a uniform interface <br/> ( 2017-03-10 / 6 commits / 0 stars )
 - [go-pipe/pipe](https://github.com/go-pipe/pipe) - Package pipe implements unix-like pipelines for Go. <br/> ( 2014-04-14 / 27 commits / 12 stars )
 - [golang/sync](https://github.com/golang/sync) - [mirror] concurrency primitives <br/> ( 2017-03-17 / 13 commits / 8 stars )
 - [gophergala/go-algos](https://github.com/gophergala/go-algos) - --- <br/> ( 2015-01-26 / 42 commits / 8 stars )
@@ -62,7 +64,7 @@ The main purpose is reading / learning / teaching.
 - [joeshaw/cuckoofilter](https://github.com/joeshaw/cuckoofilter) - An implementation of Cuckoo Filters in Go <br/> ( 2016-08-01 / 4 commits / 2 stars )
 - [jpillora/backoff](https://github.com/jpillora/backoff) - Simple backoff algorithm in Go (golang) <br/> ( 2017-02-22 / 23 commits / 17 stars )
 - [kai101/programming-reference-quiz](https://github.com/kai101/programming-reference-quiz) - A collection of various programming reference  and quiz question and solution in various language. <br/> ( 2017-03-19 / 19 commits / 0 stars )
-- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Design Patterns for Humans™ - An ultra-simplified explanation <br/> ( 2017-03-21 / 103 commits / 1,021 stars )
+- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Design Patterns for Humans™ - An ultra-simplified explanation <br/> ( 2017-03-21 / 103 commits / 1,022 stars )
 - [lnsp/gohash](https://github.com/lnsp/gohash) - Fast and easy tool to generate file hashes. <br/> ( 2016-08-19 / 6 commits / 0 stars )
 - [logpacker/go-questions](https://github.com/logpacker/go-questions) - Questions to estimate your Go level <br/> ( 2017-02-14 / 25 commits / 2 stars )
 - [mailgun/callqueue](https://github.com/mailgun/callqueue) - Serialized call queues <br/> ( 2015-02-11 / 3 commits / 0 stars )
@@ -109,6 +111,7 @@ The main purpose is reading / learning / teaching.
 - [exercism/xgo](https://github.com/exercism/xgo): 2017-03-24 <br/> Exercism Exercises in Go
 - [codingsince1985/uva](https://github.com/codingsince1985/uva): 2017-03-23 <br/> UVa Online Judge solutions in Go
 - [rubyist/circuitbreaker](https://github.com/rubyist/circuitbreaker): 2017-03-22 <br/> Circuit Breakers in Go
+- [go-cmd/cmd](https://github.com/go-cmd/cmd): 2017-03-22 <br/> Async Go os/exec.Cmd with real-time output and status
 - [gophersgang/ways-to-do-things](https://github.com/gophersgang/ways-to-do-things): 2017-03-22 <br/> different ways to model actors in Golang
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans): 2017-03-21 <br/> Design Patterns for Humans™ - An ultra-simplified explanation
 - [mailgun/holster](https://github.com/mailgun/holster): 2017-03-20 <br/> A place to keep useful golang functions and small libraries
@@ -123,6 +126,7 @@ The main purpose is reading / learning / teaching.
 - [joernweissenborn/eventual2go](https://github.com/joernweissenborn/eventual2go): 2017-03-14 <br/> Streams and Futures for Go.
 - [djherbis/buffer](https://github.com/djherbis/buffer): 2017-03-14 <br/> Composable Buffers for Go #golang
 - [vladimirvivien/go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples): 2017-03-13 <br/> Calling Go Functions from Other Languages using C Shared Libraries
+- [go-cmd/run](https://github.com/go-cmd/run): 2017-03-10 <br/> Strategies for running commands with a uniform interface
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns): 2017-03-08 <br/> Curated list of Go design patterns, recipes and idioms
 - [alexandergrom/go-patterns](https://github.com/alexandergrom/go-patterns): 2017-03-07 <br/> Design patterns in Golang
 - [alexandergrom/componenta](https://github.com/alexandergrom/componenta): 2017-03-07 <br/> Go наброски
@@ -234,6 +238,7 @@ The main purpose is reading / learning / teaching.
 - [golang/sync](https://github.com/golang/sync): 0.11 MB<br/>  (0.06 MB git / 0.05 MB code)
 - [mitghi/buffpool](https://github.com/mitghi/buffpool): 0.10 MB<br/>  (0.08 MB git / 0.02 MB code)
 - [efischer19/golang_ctci](https://github.com/efischer19/golang_ctci): 0.10 MB<br/>  (0.06 MB git / 0.04 MB code)
+- [go-cmd/cmd](https://github.com/go-cmd/cmd): 0.09 MB<br/>  (0.05 MB git / 0.04 MB code)
 - [eapache/go-resiliency](https://github.com/eapache/go-resiliency): 0.09 MB<br/>  (0.05 MB git / 0.03 MB code)
 - [vladimirvivien/go-cshared-examples](https://github.com/vladimirvivien/go-cshared-examples): 0.09 MB<br/>  (0.06 MB git / 0.03 MB code)
 - [abcum/vtree](https://github.com/abcum/vtree): 0.08 MB<br/>  (0.04 MB git / 0.04 MB code)
@@ -245,6 +250,7 @@ The main purpose is reading / learning / teaching.
 - [dgryski/go-perfbook](https://github.com/dgryski/go-perfbook): 0.08 MB<br/>  (0.07 MB git / 0.01 MB code)
 - [serialx/hashring](https://github.com/serialx/hashring): 0.08 MB<br/>  (0.05 MB git / 0.02 MB code)
 - [peterbourgon/go-training](https://github.com/peterbourgon/go-training): 0.08 MB<br/>  (0.05 MB git / 0.03 MB code)
+- [go-cmd/run](https://github.com/go-cmd/run): 0.07 MB<br/>  (0.04 MB git / 0.03 MB code)
 - [jbuberel/go-patterns](https://github.com/jbuberel/go-patterns): 0.07 MB<br/>  (0.04 MB git / 0.03 MB code)
 - [feyeleanor/gospeed](https://github.com/feyeleanor/gospeed): 0.07 MB<br/>  (0.04 MB git / 0.03 MB code)
 - [yksz/go-design-patterns](https://github.com/yksz/go-design-patterns): 0.07 MB<br/>  (0.05 MB git / 0.02 MB code)
