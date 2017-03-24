@@ -43,7 +43,7 @@ The main purpose is reading / learning / teaching.
 - [djherbis/buffer](https://github.com/djherbis/buffer) - Composable Buffers for Go #golang <br/> ( 2017-03-14 / 198 commits / 18 stars )
 - [eapache/go-resiliency](https://github.com/eapache/go-resiliency) - Resiliency patterns for golang <br/> ( 2016-01-04 / 44 commits / 31 stars )
 - [efischer19/golang_ctci](https://github.com/efischer19/golang_ctci) - Working my way through cracking the coding interview in Go, because I want to learn it <br/> ( 2015-06-12 / 43 commits / 0 stars )
-- [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON <br/> ( 2017-03-06 / 262 commits / 206 stars )
+- [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON <br/> ( 2017-03-06 / 262 commits / 207 stars )
 - [exercism/xgo](https://github.com/exercism/xgo) - Exercism Exercises in Go <br/> ( 2017-03-24 / 990 commits / 93 stars )
 - [f2prateek/semaphore](https://github.com/f2prateek/semaphore) - --- <br/> ( 2016-05-01 / 6 commits / 0 stars )
 - [feyeleanor/gospeed](https://github.com/feyeleanor/gospeed) - Go micro-benchmarks for calculating the speed of language constructs <br/> ( 2016-01-27 / 26 commits / 5 stars )
@@ -65,6 +65,7 @@ The main purpose is reading / learning / teaching.
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Design Patterns for Humans™ - An ultra-simplified explanation <br/> ( 2017-03-21 / 103 commits / 1,021 stars )
 - [lnsp/gohash](https://github.com/lnsp/gohash) - Fast and easy tool to generate file hashes. <br/> ( 2016-08-19 / 6 commits / 0 stars )
 - [logpacker/go-questions](https://github.com/logpacker/go-questions) - Questions to estimate your Go level <br/> ( 2017-02-14 / 25 commits / 2 stars )
+- [mailgun/callqueue](https://github.com/mailgun/callqueue) - Serialized call queues <br/> ( 2015-02-11 / 3 commits / 0 stars )
 - [mailgun/holster](https://github.com/mailgun/holster) - A place to keep useful golang functions and small libraries <br/> ( 2017-03-20 / 12 commits / 0 stars )
 - [mattkanwisher/microservices-book-code](https://github.com/mattkanwisher/microservices-book-code) - Source code to the book Microservices in GO www.microservicesingo.com <br/> ( 2015-08-14 / 2 commits / 8 stars )
 - [mitghi/buffpool](https://github.com/mitghi/buffpool) - Recycling pool with lock-free contexts <br/> ( 2017-03-06 / 11 commits / 0 stars )
@@ -178,6 +179,7 @@ The main purpose is reading / learning / teaching.
 - [mattkanwisher/microservices-book-code](https://github.com/mattkanwisher/microservices-book-code): 2015-08-14 <br/> Source code to the book Microservices in GO www.microservicesingo.com
 - [monochromegane/go_design_pattern](https://github.com/monochromegane/go_design_pattern): 2015-07-09 <br/> Design patterns in Golang.
 - [efischer19/golang_ctci](https://github.com/efischer19/golang_ctci): 2015-06-12 <br/> Working my way through cracking the coding interview in Go, because I want to learn it
+- [mailgun/callqueue](https://github.com/mailgun/callqueue): 2015-02-11 <br/> Serialized call queues
 - [arnauddri/algorithms](https://github.com/arnauddri/algorithms): 2015-02-02 <br/> Algorithms & Data Structures in Go
 - [gophergala/go-algos](https://github.com/gophergala/go-algos): 2015-01-26 <br/> ---
 - [puerkitobio/gocostmodel](https://github.com/puerkitobio/gocostmodel): 2015-01-04 <br/> Benchmarks of common basic operations for the Go language.
@@ -257,6 +259,7 @@ The main purpose is reading / learning / teaching.
 - [abcum/lcp](https://github.com/abcum/lcp): 0.05 MB<br/>  (0.03 MB git / 0.02 MB code)
 - [gophersgang/ways-to-do-things](https://github.com/gophersgang/ways-to-do-things): 0.05 MB<br/>  (0.03 MB git / 0.02 MB code)
 - [ghthor/iprep](https://github.com/ghthor/iprep): 0.04 MB<br/>  (0.04 MB git / 0.01 MB code)
+- [mailgun/callqueue](https://github.com/mailgun/callqueue): 0.04 MB<br/>  (0.02 MB git / 0.01 MB code)
 - [aandryashin/init](https://github.com/aandryashin/init): 0.04 MB<br/>  (0.03 MB git / 0.01 MB code)
 - [bsm/histogram](https://github.com/bsm/histogram): 0.04 MB<br/>  (0.03 MB git / 0.01 MB code)
 - [glycerine/bchan](https://github.com/glycerine/bchan): 0.03 MB<br/>  (0.03 MB git / 0.01 MB code)
