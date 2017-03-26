@@ -1,3 +1,4 @@
+- https://github.com/picadoh/gostreamer
 https://github.com/aandryashin/init
 https://github.com/abcum/cachr
 https://github.com/abcum/lcp
@@ -11,7 +12,9 @@ https://github.com/arnauddri/algorithms
 https://github.com/bsm/histogram
 https://github.com/clarkduvall/hyperloglog
 https://github.com/code-hex/retrygroup
+https://github.com/codingsince1985/checksum
 https://github.com/codingsince1985/uva
+https://github.com/dagoof/gibb
 https://github.com/davecheney/high-performance-go-workshop
 https://github.com/deckarep/golang-set
 https://github.com/dgryski/go-frugal
@@ -24,6 +27,7 @@ https://github.com/exercism/xgo
 https://github.com/f2prateek/semaphore
 https://github.com/feyeleanor/gospeed
 https://github.com/ghthor/iprep
+https://github.com/gitchander/bufqueue
 https://github.com/glycerine/bchan
 https://github.com/glycerine/idem
 https://github.com/glycerine/offheap
@@ -65,8 +69,10 @@ https://github.com/sentimensrg/sigctx
 https://github.com/serdmanczyk/bifrost
 https://github.com/serialx/hashring
 https://github.com/spatially/go-workgroup
+https://github.com/steeve/broadcaster
 https://github.com/stefanschroeder/golang-regex-tutorial
 https://github.com/streadway/quantile
+https://github.com/sunfmin/fanout
 https://github.com/svett/golang-design-patterns
 https://github.com/thejerf/suture
 https://github.com/timtadh/fs2
@@ -81,3 +87,5 @@ https://github.com/vladimirvivien/learning-go
 https://github.com/workiva/go-datastructures
 https://github.com/xlab/closer
 https://github.com/yksz/go-design-patterns
+https://github.com/zhenjl/encoding
+https://github.com/zhenjl/ringbuffer
