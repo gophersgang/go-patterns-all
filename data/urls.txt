@@ -5,6 +5,7 @@ https://github.com/abcum/lcp
 https://github.com/abcum/ptree
 https://github.com/abcum/tlist
 https://github.com/abcum/vtree
+https://github.com/akresling/jono
 https://github.com/alexandergrom/componenta
 https://github.com/alexandergrom/go-patterns
 https://github.com/alioygur/is
@@ -23,8 +24,10 @@ https://github.com/djherbis/buffer
 https://github.com/eapache/go-resiliency
 https://github.com/efischer19/golang_ctci
 https://github.com/emirpasic/gods
+https://github.com/etcinit/radio
 https://github.com/exercism/xgo
 https://github.com/f2prateek/semaphore
+https://github.com/faildep/faildep
 https://github.com/feyeleanor/gospeed
 https://github.com/ghthor/iprep
 https://github.com/gitchander/bufqueue
