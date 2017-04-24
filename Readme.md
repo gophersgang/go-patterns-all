@@ -40,6 +40,7 @@ The main purpose is reading / learning / teaching.
 - [codingsince1985/uva](https://github.com/codingsince1985/uva) - UVa Online Judge solutions in Go <br/> ( 2017-04-23 / 619 commits / 9 stars )
 - [dagoof/gibb](https://github.com/dagoof/gibb) - Message broadcasting pattern for go. In order, no messages dropped, and no backup for slow receivers. <br/> ( 2016-02-28 / 11 commits / 1 stars )
 - [davecheney/high-performance-go-workshop](https://github.com/davecheney/high-performance-go-workshop) - --- <br/> ( 2016-12-25 / 51 commits / 29 stars )
+- [dc0d/rop](https://github.com/dc0d/rop) - Minimal Railway Oriented Programming for Go <br/> ( 2017-03-08 / 6 commits / 1 stars )
 - [dc0d/workerpool](https://github.com/dc0d/workerpool) - A workerpool that can get expanded & shrink dynamically. <br/> ( 2017-03-06 / 20 commits / 4 stars )
 - [deckarep/golang-set](https://github.com/deckarep/golang-set) - A simple set type for the Go language. Also used in Docker. <br/> ( 2017-04-11 / 100 commits / 64 stars )
 - [dgryski/go-frugal](https://github.com/dgryski/go-frugal) - Frugal Streaming Quantiles <br/> ( 2014-07-07 / 11 commits / 1 stars )
@@ -150,6 +151,7 @@ The main purpose is reading / learning / teaching.
 - [joernweissenborn/eventual2go](https://github.com/joernweissenborn/eventual2go): 2017-03-14 <br/> Streams and Futures for Go.
 - [go-cmd/run](https://github.com/go-cmd/run): 2017-03-10 <br/> Strategies for running commands with a uniform interface
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns): 2017-03-08 <br/> Curated list of Go design patterns, recipes and idioms
+- [dc0d/rop](https://github.com/dc0d/rop): 2017-03-08 <br/> Minimal Railway Oriented Programming for Go
 - [alexandergrom/go-patterns](https://github.com/alexandergrom/go-patterns): 2017-03-07 <br/> Design patterns in Golang
 - [mitghi/buffpool](https://github.com/mitghi/buffpool): 2017-03-06 <br/> Recycling pool with lock-free contexts
 - [dc0d/workerpool](https://github.com/dc0d/workerpool): 2017-03-06 <br/> A workerpool that can get expanded & shrink dynamically.
@@ -297,6 +299,7 @@ The main purpose is reading / learning / teaching.
 - [gophersgang/ways-to-do-things](https://github.com/gophersgang/ways-to-do-things): 0.05 MB<br/>  (0.03 MB git / 0.02 MB code)
 - [dagoof/gibb](https://github.com/dagoof/gibb): 0.05 MB<br/>  (0.04 MB git / 0.01 MB code)
 - [ghthor/iprep](https://github.com/ghthor/iprep): 0.04 MB<br/>  (0.04 MB git / 0.01 MB code)
+- [dc0d/rop](https://github.com/dc0d/rop): 0.04 MB<br/>  (0.03 MB git / 0.01 MB code)
 - [akresling/jono](https://github.com/akresling/jono): 0.04 MB<br/>  (0.02 MB git / 0.02 MB code)
 - [mailgun/callqueue](https://github.com/mailgun/callqueue): 0.04 MB<br/>  (0.02 MB git / 0.01 MB code)
 - [steeve/broadcaster](https://github.com/steeve/broadcaster): 0.04 MB<br/>  (0.02 MB git / 0.01 MB code)
