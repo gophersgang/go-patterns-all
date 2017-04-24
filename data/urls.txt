@@ -17,6 +17,7 @@ https://github.com/codingsince1985/checksum
 https://github.com/codingsince1985/uva
 https://github.com/dagoof/gibb
 https://github.com/davecheney/high-performance-go-workshop
+https://github.com/dc0d/workerpool
 https://github.com/deckarep/golang-set
 https://github.com/dgryski/go-frugal
 https://github.com/dgryski/go-perfbook
