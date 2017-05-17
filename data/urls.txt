@@ -1,4 +1,3 @@
-- https://github.com/picadoh/gostreamer
 https://github.com/aandryashin/init
 https://github.com/abcum/cachr
 https://github.com/abcum/lcp
@@ -10,6 +9,7 @@ https://github.com/alexandergrom/componenta
 https://github.com/alexandergrom/go-patterns
 https://github.com/alioygur/is
 https://github.com/arnauddri/algorithms
+https://github.com/aurelien-rainone/go-rquad
 https://github.com/bsm/histogram
 https://github.com/clarkduvall/hyperloglog
 https://github.com/code-hex/retrygroup
