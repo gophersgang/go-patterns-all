@@ -43,6 +43,7 @@ https://github.com/golang/sync
 https://github.com/gophergala/go-algos
 https://github.com/gophersgang/golang-patterns-collection
 https://github.com/gophersgang/ways-to-do-things
+https://github.com/hashicorp/golang-lru
 https://github.com/imdario/mergo
 https://github.com/jbuberel/go-patterns
 https://github.com/joernweissenborn/eventual2go
@@ -71,6 +72,7 @@ https://github.com/puerkitobio/gocostmodel
 https://github.com/qkraudghgh/algorithms
 https://github.com/rakyll/coop
 https://github.com/rubyist/circuitbreaker
+https://github.com/seiflotfy/loglogbeta
 https://github.com/sentimensrg/sigctx
 https://github.com/serdmanczyk/bifrost
 https://github.com/serialx/hashring
