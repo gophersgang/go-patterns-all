@@ -51,6 +51,7 @@ https://github.com/joeshaw/cuckoofilter
 https://github.com/jpillora/backoff
 https://github.com/kai101/programming-reference-quiz
 https://github.com/kamranahmedse/design-patterns-for-humans
+https://github.com/lafikl/liblb
 https://github.com/lnsp/gohash
 https://github.com/logpacker/go-questions
 https://github.com/mailgun/callqueue
