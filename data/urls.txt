@@ -29,6 +29,7 @@ https://github.com/emirpasic/gods
 https://github.com/etcinit/radio
 https://github.com/exercism/xgo
 https://github.com/f2prateek/semaphore
+https://github.com/f483/dejavu
 https://github.com/faildep/faildep
 https://github.com/feyeleanor/gospeed
 https://github.com/ghthor/iprep
@@ -99,4 +100,3 @@ https://github.com/xlab/closer
 https://github.com/yksz/go-design-patterns
 https://github.com/zhenjl/encoding
 https://github.com/zhenjl/ringbuffer
-https://github.com/F483/dejavu
