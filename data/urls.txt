@@ -58,7 +58,6 @@ https://github.com/logpacker/go-questions
 https://github.com/mailgun/callqueue
 https://github.com/mailgun/holster
 https://github.com/mattkanwisher/microservices-book-code
-https://github.com/mitghi/buffpool
 https://github.com/mmcgrana/gobyexample
 https://github.com/monochromegane/go_design_pattern
 https://github.com/moul/euler
